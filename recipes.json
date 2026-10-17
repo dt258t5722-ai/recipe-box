@@ -17,6 +17,11 @@
       "subtitle": "What the table is for"
     },
     {
+      "name": "Soups",
+      "id": "soups",
+      "subtitle": "A pot on the stove"
+    },
+    {
       "name": "Desserts",
       "id": "desserts",
       "subtitle": "One pan, to share"
@@ -25,6 +30,11 @@
       "name": "Cakes",
       "id": "cakes",
       "subtitle": "From the cookbook's Cakes chapter"
+    },
+    {
+      "name": "Snacks",
+      "id": "snacks",
+      "subtitle": "Something for the lunch box"
     }
   ],
   "footer": "Photographs made for this edition, in the same light throughout. The wording follows the cards. Where a margin note changed the dish, that is the version written here.",
@@ -735,6 +745,392 @@
       "notes_heading": "Notes from the recipe",
       "attribution": "mydinner.co.uk",
       "source_url": "https://mydinner.co.uk/apple-streusel-cake/"
+    },
+    {
+      "slug": "raspberry-ripple-cheesecake",
+      "category": "Desserts",
+      "title": "Raspberry Ripple Cheesecake",
+      "intro": "No oven needed: a buttery graham cracker base, a whipped cream-cheese filling, and a homemade raspberry purée swirled and feathered on top.",
+      "details": [
+        "Children's cookbook page",
+        "Serves 8",
+        "One 8-inch (20 cm) removable-base pan",
+        "No-bake",
+        "Chill 2 hours or overnight"
+      ],
+      "image": "raspberry-ripple-cheesecake.jpg",
+      "image_alt": "Raspberry Ripple Cheesecake",
+      "ingredients": [
+        {
+          "label": "Base",
+          "items": [
+            "1 stick (8 tbsp) butter",
+            "8 oz (250 g) graham crackers"
+          ]
+        },
+        {
+          "label": "Raspberry purée",
+          "items": [
+            "2½ cups fresh raspberries",
+            "⅔ cup powdered sugar"
+          ]
+        },
+        {
+          "label": "Filling",
+          "items": [
+            "16 oz (450 g) cream cheese",
+            "1 cup superfine sugar",
+            "1 tsp vanilla extract",
+            "1⅔ cups whipping cream"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Base",
+          "items": [
+            "Put the crackers in a bag and roll with a rolling pin to make crumbs.",
+            "Melt the butter in a pan. Pour in the crushed graham crackers and stir thoroughly.",
+            "Line an 8-inch (20 cm) cake pan with a removable base with plastic wrap. Spoon in the cracker mixture, press flat with a masher, and refrigerate."
+          ]
+        },
+        {
+          "label": "Purée",
+          "items": [
+            "Bring the raspberries and powdered sugar to a boil, then simmer for 10 minutes. Cool, then press through a sieve."
+          ]
+        },
+        {
+          "label": "Filling",
+          "items": [
+            "Mix together the cream cheese, superfine sugar, and vanilla. Whip the cream until stiff, then fold it into the cheese mixture.",
+            "Spread about ¾ of the cheese mixture over the cracker base. Spoon on ¾ of the purée and swirl it into the cheesecake mixture.",
+            "Gently spread on the remaining cheesecake mixture. Drizzle straight lines of the remaining purée across the top and pull a skewer across the lines for a feathered effect.",
+            "Refrigerate for at least 2 hours, or overnight."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the page",
+          "text": "Pull a skewer across the lines for a feathered effect."
+        },
+        {
+          "label": "Grown-up help",
+          "text": "The book marks melting the butter and making the purée as hot steps."
+        }
+      ],
+      "notes_heading": "From the cookbook page",
+      "attribution": "Children's cookbook page"
+    },
+    {
+      "slug": "lemon-coconut-cake",
+      "category": "Cakes",
+      "title": "Lemon Coconut Cake",
+      "intro": "Written out in green pencil, with a drawing at the top. Coconut milk and coconut oil, brightened with lemon.",
+      "details": [
+        "Handwritten card",
+        "350°F",
+        "60 minutes"
+      ],
+      "image": "lemon-coconut-cake.jpg",
+      "image_alt": "Lemon Coconut Cake",
+      "ingredients": [
+        {
+          "label": "Dry",
+          "items": [
+            "1½ cups flour",
+            "1 cup sugar",
+            "1 tsp baking powder",
+            "Lemon zest (the card just says “lemon”)"
+          ]
+        },
+        {
+          "label": "Wet",
+          "items": [
+            "¾ cup coconut milk",
+            "2 eggs",
+            "Lemon juice",
+            "½ cup coconut oil"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Preheat the oven to 350°F and grease a cake pan.",
+            "Mix the flour, sugar, baking powder, and lemon zest in a bowl.",
+            "In another bowl, whisk the eggs with the coconut milk, coconut oil, and lemon juice.",
+            "Stir the wet ingredients into the dry until just combined, and pour into the pan.",
+            "Bake at 350° for 60 minutes."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "On the card",
+          "text": "350° — 60 minutes."
+        },
+        {
+          "label": "Good to know",
+          "text": "The card lists ingredients only, with no method or pan size. The steps here simply put them together."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Handwritten card"
+    },
+    {
+      "slug": "blueberry-pancakes",
+      "category": "Breakfast",
+      "title": "Blueberry Pancakes",
+      "intro": "Thick, fluffy pancakes with the blueberries dropped in as they cook. Cinnamon and maple flavouring to taste.",
+      "details": [
+        "Handwritten card",
+        "About ½ cup batter each",
+        "Hot pan"
+      ],
+      "image": "blueberry-pancakes.jpg",
+      "image_alt": "Blueberry Pancakes",
+      "ingredients": [
+        {
+          "label": "Dry",
+          "items": [
+            "1½ cups flour",
+            "1–2 tbsp white sugar",
+            "3 tsp baking powder",
+            "½ tsp salt"
+          ]
+        },
+        {
+          "label": "Wet",
+          "items": [
+            "2 eggs",
+            "1¾ cups milk",
+            "2 tbsp vegetable oil"
+          ]
+        },
+        {
+          "label": "To taste",
+          "items": [
+            "Cinnamon",
+            "Maple flavouring",
+            "Blueberries"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Beat the eggs. Beat in the milk, vegetable oil, and maple flavouring.",
+            "Add the flour, sugar, baking powder, salt, and cinnamon to the liquid.",
+            "Beat lightly, just until combined.",
+            "Heat the pan to high and grease lightly with shortening. Use about ½ cup batter for each pancake.",
+            "Drop blueberries into each pancake as the first side cooks. Once the first side is golden, flip and cook the second side."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the card",
+          "text": "If using frozen blueberries, cook a little longer to make sure the blueberries are thawed."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Handwritten card"
+    },
+    {
+      "slug": "pumpkin-coconut-curry-soup",
+      "category": "Soups",
+      "title": "Roasted Pumpkin Coconut Curry Soup",
+      "intro": "Everything roasts in one pot, then simmers with broth and coconut milk. The margins make it milder and creamier: one teaspoon of curry paste and a full can of coconut milk.",
+      "details": [
+        "Printed recipe, Chris Scheuer",
+        "Serves 8",
+        "425°F",
+        "About 50 minutes"
+      ],
+      "image": "pumpkin-coconut-curry-soup.jpg",
+      "image_alt": "Roasted Pumpkin Coconut Curry Soup",
+      "ingredients": [
+        {
+          "label": "To roast",
+          "items": [
+            "1 tablespoon extra virgin olive oil",
+            "1 tablespoon butter",
+            "1 large onion, roughly chopped",
+            "1 medium apple, cored and roughly chopped — don’t peel",
+            "1 large potato, roughly chopped — don’t peel",
+            "3 + 3 medium cloves garlic (the printout lists garlic twice)",
+            "1 full teaspoon red curry paste",
+            "2 tablespoons brown sugar",
+            "1 teaspoon mild yellow curry powder",
+            "1 teaspoon ground coriander",
+            "½ teaspoon cumin",
+            "2 teaspoons finely chopped fresh ginger"
+          ]
+        },
+        {
+          "label": "To finish",
+          "items": [
+            "1⅞ cups (30 tbsp) pumpkin purée — one 15-ounce can",
+            "3 cups low sodium chicken broth",
+            "One full 400 ml can light coconut milk"
+          ]
+        },
+        {
+          "label": "Garnish",
+          "items": [
+            "Coconut",
+            "Salted, roasted cashews, if desired",
+            "Greek yogurt thinned with a bit of milk, if desired"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Preheat the oven to 425°F.",
+            "Combine the olive oil, butter, onion, apple, potato, garlic, curry paste, brown sugar, curry powder, coriander, cumin, and ginger in a Dutch oven or oven-safe pot. Stir well and roast in the preheated oven. (The roasting time is cut off on our copy.)",
+            "Remove from the oven and stir in the pumpkin purée. Roast for another 15–20 minutes, until deepening in colour, stirring halfway through.",
+            "Remove from the oven and add the chicken broth and coconut milk. Bring to a low simmer and cook for 10 minutes.",
+            "Cool first, then purée with an immersion blender or a regular blender. Reheat.",
+            "Serve with a small dollop of cream or Greek yogurt, a little coconut, some chopped cilantro, and a sprinkle of roughly chopped cashews."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Written beside the curry paste",
+          "text": "Only 1 full tsp. The printout says 1–4 teaspoons, and 2 is medium spicy."
+        },
+        {
+          "label": "In the margin",
+          "text": "Apple and potato — don’t peel. Pumpkin purée: 1.875 cups, 30 tbsp. Coconut milk: a full 400 ml can, not the 14½-ounce can printed."
+        },
+        {
+          "label": "At the bottom",
+          "text": "Cool first, then blend — reheat. Garnish coconut."
+        }
+      ],
+      "notes_heading": "From the printout",
+      "attribution": "Printed recipe by Chris Scheuer, with handwritten notes"
+    },
+    {
+      "slug": "waffles",
+      "category": "Breakfast",
+      "title": "Waffles",
+      "intro": "The same simple batter family as the pancakes, with melted butter. Bake until the iron stops steaming.",
+      "details": [
+        "Handwritten card",
+        "About ¾–1 cup batter each",
+        "Waffle iron"
+      ],
+      "image": "waffles.jpg",
+      "image_alt": "Waffles",
+      "ingredients": [
+        {
+          "label": "Dry",
+          "items": [
+            "1½ cups flour",
+            "2 tbsp white sugar",
+            "3 tsp baking powder",
+            "½ tsp salt"
+          ]
+        },
+        {
+          "label": "Wet",
+          "items": [
+            "2 eggs",
+            "1½ cups milk",
+            "¼ cup melted butter"
+          ]
+        },
+        {
+          "label": "To taste",
+          "items": [
+            "Cinnamon",
+            "Maple flavouring"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Beat the eggs. Beat in the milk and melted butter.",
+            "Add the rest of the ingredients and beat just until smooth.",
+            "Heat the waffle iron. Pour in about ¾ to 1 cup of batter.",
+            "Bake until the waffle stops steaming."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the card",
+          "text": "Bake until the waffle stops steaming."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Handwritten card"
+    },
+    {
+      "slug": "munch-bars",
+      "category": "Snacks",
+      "title": "Camp Squeah Munch Bars",
+      "intro": "Oats, Rice Krispies, coconut, and sunflower seeds, bound with melted marshmallows and finished with chocolate chips. A camp recipe, made by the potful.",
+      "details": [
+        "Camp Squeah newsletter",
+        "A big batch",
+        "No-bake"
+      ],
+      "image": "munch-bars.jpg",
+      "image_alt": "Camp Squeah Munch Bars",
+      "ingredients": [
+        {
+          "label": "Cereal mixture",
+          "items": [
+            "4 cups rolled oats",
+            "1½ cups Rice Krispies",
+            "1½ cups shredded coconut",
+            "2½ cups sunflower seeds"
+          ]
+        },
+        {
+          "label": "To bind",
+          "items": [
+            "⅔ cup margarine",
+            "15 cups marshmallows"
+          ]
+        },
+        {
+          "label": "To finish",
+          "items": [
+            "1¼ cups chocolate chips"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Combine the rolled oats, Rice Krispies, coconut, and sunflower seeds in a large bowl.",
+            "In a large pot, melt the margarine. Add the marshmallows and stir.",
+            "Mix in the cereal mixture.",
+            "Add the chocolate chips."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Good to know",
+          "text": "The newsletter stops at the chocolate chips. It gives no pan size or setting time."
+        }
+      ],
+      "notes_heading": "From the newsletter",
+      "attribution": "Camp Squeah newsletter"
     }
   ]
 }
