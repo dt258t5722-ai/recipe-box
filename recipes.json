@@ -1,0 +1,740 @@
+{
+  "title": "The Recipe Box",
+  "eyebrow": "A family cookbook",
+  "tagline": "Transcribed from the original cards — newspaper clippings, typed sheets, and pages written by hand.",
+  "description": "A family cookbook of recipes transcribed from the original cards and cookbook pages.",
+  "hero_image": "hero.jpg",
+  "hero_alt": "A kitchen table with family baking, linen, and a handwritten card",
+  "categories": [
+    {
+      "name": "Breakfast",
+      "id": "breakfast",
+      "subtitle": "The first pan of the day"
+    },
+    {
+      "name": "Supper",
+      "id": "supper",
+      "subtitle": "What the table is for"
+    },
+    {
+      "name": "Desserts",
+      "id": "desserts",
+      "subtitle": "One pan, to share"
+    },
+    {
+      "name": "Cakes",
+      "id": "cakes",
+      "subtitle": "From the cookbook's Cakes chapter"
+    }
+  ],
+  "footer": "Photographs made for this edition, in the same light throughout. The wording follows the cards. Where a margin note changed the dish, that is the version written here.",
+  "recipes": [
+    {
+      "slug": "swedish-pancakes",
+      "category": "Breakfast",
+      "title": "Swedish Pancakes",
+      "intro": "Thin, tender, and better if you wait. The batter wants a long rest — overnight if you can.",
+      "details": [
+        "Handwritten card",
+        "A family skillet’s worth",
+        "Batter rests 1 hour, preferably overnight"
+      ],
+      "image": "swedish-pancakes.jpg",
+      "image_alt": "Swedish Pancakes",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "1 cup flour",
+            "1 cup table cream",
+            "1 cup milk",
+            "¼ tsp salt",
+            "3 eggs",
+            "3–5 Tbsp melted butter"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Melt the butter and cool it slightly.",
+            "With an electric beater, beat the eggs and salt.",
+            "Add the milk and cream. Add the flour. Add the melted butter. Beat thoroughly for 2 minutes.",
+            "Cover the bowl with plastic wrap and chill for at least 1 hour, but preferably overnight.",
+            "To cook, heat the pan and lightly grease with shortening. Beat the pancake mix slightly to blend. Pour about ½ cup of mix into the pan and cook on medium heat until golden brown. Flip and cook the other side."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the card",
+          "text": "For crispy pancakes, use a cast iron pan."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Handwritten card"
+    },
+    {
+      "slug": "jiffy-cinnamon-buns",
+      "category": "Breakfast",
+      "title": "Jiffy Cinnamon Buns",
+      "intro": "Biscuit dough, brown-sugar butter, baked in muffin tins. Flip them out the moment they come from the oven.",
+      "details": [
+        "Canadian Living, May 1989",
+        "12 buns",
+        "400°F",
+        "15–20 minutes — watch them"
+      ],
+      "image": "cinnamon-buns.jpg",
+      "image_alt": "Jiffy Cinnamon Buns",
+      "ingredients": [
+        {
+          "label": "Dough",
+          "items": [
+            "2 cups flour",
+            "2 Tbsp sugar",
+            "4 tsp baking powder",
+            "1 tsp salt",
+            "¼ cup cold butter",
+            "1 cup milk (reduce just a bit)"
+          ]
+        },
+        {
+          "label": "Topping",
+          "items": [
+            "⅓ cup butter, softened",
+            "1 cup packed brown sugar",
+            "1 Tbsp cinnamon",
+            "⅓ cup raisins"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Mix flour, sugar, baking powder, and salt. Blend in the cold butter until the mixture resembles coarse meal.",
+            "Pour in the milk, stirring lightly. Turn onto a floured surface and knead 8–10 times. Roll into a 12 × 8-inch rectangle.",
+            "Cream the butter, brown sugar, and cinnamon. Spread over the dough. Sprinkle with raisins.",
+            "Roll up jelly-roll style from the long side, seam under. Cut into 12 pieces. Place in greased muffin tins.",
+            "Bake at 400°F for 20 minutes. Watch the time — check after 15 minutes. Flip out immediately."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the card",
+          "text": "Roll out like a log, then seam under."
+        },
+        {
+          "label": "The usual way",
+          "text": "I usually take them out after 15 minutes."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Canadian Living, May 1989"
+    },
+    {
+      "slug": "peanut-chicken",
+      "category": "Supper",
+      "title": "Peanut Chicken Stir Fry",
+      "intro": "Broiled chicken, a pan of steamed vegetables, rice cooked in broth — and the peanut-hoisin sauce served on the side, to drizzle.",
+      "details": [
+        "Handwritten binder page",
+        "A large platter, family-style",
+        "Marinate 10 minutes; grill about 12 minutes"
+      ],
+      "image": "peanut-chicken.jpg",
+      "image_alt": "Peanut Chicken Stir Fry",
+      "ingredients": [
+        {
+          "label": "Chicken & rice",
+          "items": [
+            "Chicken breasts, sliced into thin strips",
+            "A little olive oil",
+            "Salt and pepper",
+            "Rice, cooked in chicken broth"
+          ]
+        },
+        {
+          "label": "Sauce",
+          "items": [
+            "1 cup chicken broth (or water)",
+            "½ cup peanut butter",
+            "⅔ cup hoisin sauce",
+            "4 Tbsp cider vinegar",
+            "2 garlic cloves, crushed",
+            "Water, to thin if the sauce becomes too thick"
+          ]
+        },
+        {
+          "label": "Vegetables",
+          "items": [
+            "Broccoli, thinly sliced",
+            "Celery, thinly sliced",
+            "Carrots, thinly sliced",
+            "Red pepper, thinly sliced"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Slice the chicken breasts into thin strips. Place in a bowl and toss with a little olive oil for at least 10 minutes. Place the chicken on a foil-lined sheet and season with salt and pepper.",
+            "Wash and cook the rice in chicken broth.",
+            "In a pot, mix the sauce — broth, peanut butter, hoisin, cider vinegar, and garlic — and simmer. Thin with water if it becomes too thick.",
+            "Turn the broiler to high and move the rack to the second rung.",
+            "Wash and thinly slice the broccoli, celery, carrots, and red pepper.",
+            "Grill the chicken 6 minutes on one side. Flip and grill 6 minutes on the second side.",
+            "Cook the red peppers in hot oil in an electric fry pan. Then add the broccoli, carrots, and celery. Put on the lid. Add a little, little water (not much) to steam.",
+            "Put the rice on a large platter. Top with the vegetables and chicken.",
+            "Put the sauce in a separate bowl to drizzle over the vegetables and chicken."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the card",
+          "text": "A little, little water — not much — to steam. Sauce stays on the side, for drizzling."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Handwritten binder page"
+    },
+    {
+      "slug": "super-salmon-loaf",
+      "category": "Supper",
+      "title": "Super Salmon Loaf",
+      "intro": "A mid-century loaf, baked in a water bath and turned out onto a warm platter. The clipping called for parsley. The card says dill.",
+      "details": [
+        "Newspaper clipping",
+        "6 servings",
+        "350°F",
+        "45–55 minutes, in a water bath"
+      ],
+      "image": "salmon-loaf.jpg",
+      "image_alt": "Super Salmon Loaf",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "2 (7¾-ounce) cans salmon",
+            "4 tablespoons butter or margarine",
+            "¼ cup milk",
+            "1 cup unsalted cracker crumbs",
+            "3 medium eggs, separated",
+            "2 tablespoons chopped dill (the clipping said parsley)",
+            "¼ cup finely chopped onion",
+            "1 tablespoon lemon juice",
+            "½ teaspoon Worcestershire sauce",
+            "½ teaspoon salt",
+            "⅛ teaspoon pepper"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Drain the salmon juices into a medium saucepan. Add the butter and milk to the salmon juice and heat just until the butter melts. Remove from heat; stir in the cracker crumbs and let stand five minutes.",
+            "Flake the salmon and fold into the crumb mixture along with the well-mashed bones. Beat the egg yolks and fold into the salmon mixture along with the remaining ingredients except the egg whites. Beat the egg whites until they form soft peaks. Fold into the salmon mixture.",
+            "Grease an 8½ × 4½-inch loaf pan and line with wax paper, leaving about an inch of paper to form a collar around the edges of the pan. Grease the paper. Pour the salmon mixture into the prepared pan and set in a shallow baking pan. Pour boiling water into the baking pan to a depth of one inch.",
+            "Bake in a moderate oven, 350°F, for 45 to 55 minutes. Remove the pan from the water. Let stand for five minutes before unmoulding onto a heated platter. Garnish with lemon slices."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Written in the margin",
+          "text": "Dill — not parsley."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Newspaper clipping"
+    },
+    {
+      "slug": "lettuce-wraps",
+      "category": "Supper",
+      "title": "Lettuce Wraps",
+      "intro": "Minced chicken or pork, a hoisin-oyster sauce, and whole lettuce leaves washed the day before. Roll them at the table.",
+      "details": [
+        "Handwritten card",
+        "Lettuce cups, to share",
+        "Lettuce washed and chilled the day before"
+      ],
+      "image": "lettuce-wraps.jpg",
+      "image_alt": "Lettuce Wraps",
+      "ingredients": [
+        {
+          "label": "Filling",
+          "items": [
+            "Whole lettuce leaves",
+            "5 cloves garlic, minced",
+            "2 large green onions, minced",
+            "1 whole red pepper, minced",
+            "A chunk of fresh ginger, minced",
+            "1 carrot, minced",
+            "1 small can water chestnuts, minced",
+            "1 pound chicken or pork, minced",
+            "Olive oil",
+            "Salt and pepper",
+            "A handful of steamed noodles"
+          ]
+        },
+        {
+          "label": "Sauce",
+          "items": [
+            "3 tablespoons hoisin sauce",
+            "½ cup oyster sauce",
+            "1 tablespoon sesame oil",
+            "1 tablespoon sugar"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Prepare all the ingredients and the sauce ahead of cooking.",
+            "Have whole lettuce leaves washed and chilled the day before. When washing, separate each leaf individually.",
+            "Mince the garlic, green onions, red pepper, ginger, carrot, and water chestnuts.",
+            "Make the sauce by combining the hoisin, oyster sauce, sesame oil, and sugar in a bowl. Stir to mix.",
+            "Heat olive oil in a fry pan over medium heat. Gently cook the garlic, onions, red pepper, ginger, carrot, and water chestnuts.",
+            "Add 1 pound of minced chicken or pork. Stir to break it up and cook until cooked through. Season with salt and pepper. Add the sauce to the meat mixture. Just before serving, add a handful of steamed noodles.",
+            "Spoon into lettuce cups. Drizzle with hoisin. Eat and roll up."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "The day before",
+          "text": "Wash and chill the leaves. Separate each one."
+        },
+        {
+          "label": "In the margin",
+          "text": "Hoisin is 3 tablespoons, with “¾ cup + 1 Tbsp” written beside it."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Handwritten card"
+    },
+    {
+      "slug": "oriental-meatballs",
+      "category": "Supper",
+      "title": "Oriental Meatballs",
+      "intro": "Gingersnap meatballs baked, then finished in a ketchup and pineapple sauce. The clipping says soy sauce twice. The margin says to add it carefully, in the sauce.",
+      "details": [
+        "Newspaper clipping",
+        "6 servings · 24 meatballs",
+        "350°F",
+        "10 minutes, then 10–15 more in the sauce"
+      ],
+      "image": "oriental-meatballs.jpg",
+      "image_alt": "Oriental Meatballs",
+      "ingredients": [
+        {
+          "label": "Meatballs",
+          "items": [
+            "1½ pounds lean ground beef",
+            "1 cup fine-crushed gingersnaps",
+            "1 medium egg",
+            "2 tablespoons soy sauce",
+            "1 (398 mL) can crushed pineapple, drained well, syrup reserved",
+            "1 teaspoon salt",
+            "1 teaspoon dry mustard",
+            "¼ teaspoon pepper",
+            "¼ teaspoon garlic powder"
+          ]
+        },
+        {
+          "label": "Sauce",
+          "items": [
+            "¾ cup ketchup",
+            "¼ cup soy sauce",
+            "½ teaspoon ground ginger",
+            "1½ teaspoons dry mustard",
+            "1 tablespoon brown sugar",
+            "⅓ cup pineapple syrup",
+            "Cooked rice, for serving"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Meatballs",
+          "items": [
+            "Combine the beef, gingersnap crumbs, egg, soy sauce, crushed pineapple, salt, mustard, pepper, and garlic powder.",
+            "Form into 24 meatballs, about 1½ inches across. Place in a shallow baking pan.",
+            "Bake at 350°F for 10 minutes."
+          ]
+        },
+        {
+          "label": "Sauce",
+          "items": [
+            "Combine the ketchup, soy sauce, ginger, mustard, brown sugar, and pineapple syrup.",
+            "Pour over the meatballs and continue baking 10 to 15 minutes longer.",
+            "Serve over hot rice."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Written beside the soy sauce",
+          "text": "Add the soy sauce carefully, in the sauce portion."
+        },
+        {
+          "label": "In the margin",
+          "text": "Add honey to the sauce. Garlic. Use cookie crumb — blend till very fine."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Newspaper clipping"
+    },
+    {
+      "slug": "smack-cake",
+      "category": "Cakes",
+      "title": "Smack Cake",
+      "intro": "A crumbly butter base and a coconut meringue top. The card is very clear about the coconut: stir, do not beat.",
+      "details": [
+        "Typed card",
+        "One 8 × 8 pan",
+        "350°F",
+        "25–30 minutes"
+      ],
+      "image": "smack-cake.jpg",
+      "image_alt": "Smack Cake",
+      "ingredients": [
+        {
+          "label": "Base",
+          "items": [
+            "1½ cups flour",
+            "1 tsp baking powder",
+            "½ cup white sugar",
+            "½ cup melted butter",
+            "2 egg yolks, beaten slightly",
+            "1 tsp vanilla"
+          ]
+        },
+        {
+          "label": "Topping",
+          "items": [
+            "2 egg whites",
+            "¼ tsp salt",
+            "1 cup brown sugar",
+            "1 cup medium unsweetened coconut"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Base",
+          "items": [
+            "Set the oven at 350°F.",
+            "Lightly grease an 8 × 8 baking pan, or line it with foil for easy removal.",
+            "Mix the dry ingredients.",
+            "Mix together the egg yolks and vanilla.",
+            "Combine the dry ingredients, egg, and melted butter to form a crumbly mixture.",
+            "Pat the mixture fairly firmly into the prepared pan."
+          ]
+        },
+        {
+          "label": "Topping",
+          "items": [
+            "Beat the egg whites until they are stiff.",
+            "Add the salt and sugar and beat again.",
+            "Stir in (very important to stir, not beat) the coconut.",
+            "Gently spread the topping onto the base layer.",
+            "Bake at 350°F for 25–30 minutes.",
+            "Cool on a rack."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Very important",
+          "text": "Stir in the coconut — do not beat."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Typed card"
+    },
+    {
+      "slug": "chocolate-cake",
+      "category": "Cakes",
+      "title": "Chocolate Cake",
+      "intro": "A two-layer cocoa cake, sifted straight into the mixer bowl and beaten in two short rounds — one minute, then two.",
+      "details": [
+        "Cookbook page",
+        "Two 9-inch layers",
+        "350°F",
+        "35–40 minutes"
+      ],
+      "image": "chocolate-cake.jpg",
+      "image_alt": "Chocolate Cake",
+      "ingredients": [
+        {
+          "label": "Dry",
+          "items": [
+            "2 cups all purpose flour",
+            "⅔ cup cocoa",
+            "1½ tsp baking powder",
+            "¾ tsp baking soda",
+            "1 tsp salt",
+            "1 cup granulated sugar"
+          ]
+        },
+        {
+          "label": "Wet",
+          "items": [
+            "⅔ cup shortening",
+            "1 cup lightly packed brown sugar",
+            "1 cup milk, plus ¼ cup",
+            "1 tsp vanilla",
+            "3 eggs"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Preheat the oven to 350°F. Grease two 9-inch round layer cake pans and line the bottoms with wax paper.",
+            "Sift the flour, cocoa, baking powder, baking soda, salt, and granulated sugar together into a large mixer bowl.",
+            "Add the shortening, brown sugar, 1 cup of the milk, and the vanilla. Beat for 1 minute at low speed of an electric mixer, or 150 strokes by hand.",
+            "Add the remaining ¼ cup milk and the eggs. Beat for 2 minutes at low speed.",
+            "Pour the batter into the prepared pans. Bake for 35 to 40 minutes, or until the cake springs back when lightly touched.",
+            "Cool 5 minutes, then remove from the pans."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the page",
+          "text": "No mixer? 150 strokes by hand does the same job."
+        },
+        {
+          "label": "Done when",
+          "text": "The cake springs back when lightly touched."
+        }
+      ],
+      "notes_heading": "From the cookbook page",
+      "attribution": "Cookbook page"
+    },
+    {
+      "slug": "banana-cake",
+      "category": "Cakes",
+      "title": "Banana Cake",
+      "intro": "Ripe bananas and buttermilk, added alternately with the flour. Two 8-inch layers, from page 124.",
+      "details": [
+        "Cookbook page, p. 124",
+        "Two 8-inch layers",
+        "350°F",
+        "30–35 minutes"
+      ],
+      "image": "banana-cake.jpg",
+      "image_alt": "Banana Cake",
+      "ingredients": [
+        {
+          "label": "Dry",
+          "items": [
+            "2¼ cups all purpose flour",
+            "2 tsp baking powder",
+            "1 tsp baking soda",
+            "½ tsp salt"
+          ]
+        },
+        {
+          "label": "Creamed",
+          "items": [
+            "½ cup shortening",
+            "1¼ cups granulated sugar",
+            "2 eggs",
+            "1 tsp vanilla"
+          ]
+        },
+        {
+          "label": "Liquid",
+          "items": [
+            "1 cup mashed ripe bananas",
+            "¾ cup buttermilk"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Preheat the oven to 350°F. Grease two 8-inch round layer cake pans and line the bottoms with wax paper.",
+            "Sift together the flour, baking powder, baking soda, and salt.",
+            "Cream the shortening. Beat in the sugar, then blend in the eggs and vanilla, beating until light and fluffy.",
+            "Add the dry ingredients to the creamed mixture alternately with the bananas and buttermilk — 3 dry and 2 liquid additions, combining lightly after each.",
+            "Turn into the prepared pans. Bake for 30 to 35 minutes, or until the cake springs back when lightly touched.",
+            "Cool 5 minutes, then remove from the pans."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the page",
+          "text": "Three dry, two liquid — combine lightly after each."
+        }
+      ],
+      "notes_heading": "From the cookbook page",
+      "attribution": "Cookbook page"
+    },
+    {
+      "slug": "jelly-roll",
+      "category": "Cakes",
+      "title": "Jelly Roll",
+      "intro": "A quick sponge baked thin, turned out onto a sugared towel and rolled while warm. Then fill it with jam, jelly, or filling.",
+      "details": [
+        "Cookbook page",
+        "One 15 × 10 × 1-inch pan",
+        "400°F",
+        "10–12 minutes"
+      ],
+      "image": "jelly-roll.jpg",
+      "image_alt": "Jelly Roll",
+      "ingredients": [
+        {
+          "label": "Dry",
+          "items": [
+            "1 cup all purpose flour",
+            "1 tsp baking powder",
+            "¼ tsp salt"
+          ]
+        },
+        {
+          "label": "Eggs",
+          "items": [
+            "4 eggs",
+            "1 cup granulated sugar",
+            "1 tsp lemon juice",
+            "¼ cup hot milk"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Sponge",
+          "items": [
+            "Preheat the oven to 400°F. Grease a 15 × 10 × 1-inch jelly roll pan and line it with wax paper.",
+            "Sift together the flour, baking powder, and salt.",
+            "Beat the eggs, sugar, and lemon juice until thick and lemon-coloured. Gradually beat in the hot milk, and keep beating until very thick.",
+            "Sift the dry ingredients over the egg mixture in four portions, folding gently after each.",
+            "Turn into the prepared pan. Bake for 10 to 12 minutes, or until the cake springs back when lightly touched."
+          ]
+        },
+        {
+          "label": "Rolling",
+          "items": [
+            "Turn out immediately onto a towel sprinkled with icing sugar.",
+            "Peel off the wax paper and roll the cake up, rolling the towel up inside it. Let it cool.",
+            "Unroll, fill with jam, jelly, or filling, and re-roll."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Don't wait",
+          "text": "Turn it out the moment it leaves the oven, and roll it up in the towel while warm."
+        }
+      ],
+      "notes_heading": "From the cookbook page",
+      "attribution": "Cookbook page"
+    },
+    {
+      "slug": "apple-streusel-cake",
+      "category": "Cakes",
+      "title": "Apple Streusel Cake",
+      "intro": "A German Apfelstreuselkuchen: a lemony butter sponge, a ring of tart apple slices, and a cold cinnamon crumble on top. Serve warm or cold, with whipped cream.",
+      "details": [
+        "mydinner.co.uk",
+        "Serves 12",
+        "One 26 cm (10-inch) springform",
+        "180°C / 356°F",
+        "35–45 minutes"
+      ],
+      "image": "apple-streusel-cake.jpg",
+      "image_alt": "Apple Streusel Cake",
+      "ingredients": [
+        {
+          "label": "Dry",
+          "items": [
+            "1¼ cups (150 g) flour — UK plain, US all-purpose, German type 405",
+            "⅓ cup (50 g) corn flour / cornstarch",
+            "2 tsp baking powder",
+            "1 pinch salt"
+          ]
+        },
+        {
+          "label": "Apples",
+          "items": [
+            "4 tart apples, about 1 kg / 2 lb — Cox, Braeburn, or Granny Smith",
+            "2 tsp fresh lemon juice"
+          ]
+        },
+        {
+          "label": "Batter",
+          "items": [
+            "½ cup (100 g) butter, at room temperature",
+            "½ cup (100 g) granulated sugar",
+            "3 medium eggs, at room temperature",
+            "1 tsp lemon zest"
+          ]
+        },
+        {
+          "label": "Cinnamon streusel",
+          "items": [
+            "½ cup (100 g) butter, at room temperature",
+            "1¼ cups (150 g) flour",
+            "½ cup (100 g) granulated sugar",
+            "2 tsp vanilla sugar (or 1 tsp vanilla extract)",
+            "½ tsp ground cinnamon"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Prepare",
+          "items": [
+            "Grease the sides of the springform with butter and line the base with baking parchment. Preheat the oven to 180°C / 356°F, top and bottom heat.",
+            "Sift the flour, corn flour, baking powder, and salt into a bowl and set aside.",
+            "Peel, core, and slice the apples. Toss them in the lemon juice so they don’t brown.",
+            "For the streusel, combine the sugar, vanilla sugar, cinnamon, and butter in a medium bowl. Stir in the flour with a rubber spatula until thick and crumbly. Chill until needed."
+          ]
+        },
+        {
+          "label": "Assemble and bake",
+          "items": [
+            "Beat the butter and sugar at high speed until smooth and creamy, about 2 minutes. Add the eggs and mix for a further minute, then the lemon zest. Add the flour mixture and mix on low until just combined.",
+            "Spread the batter evenly in the tin.",
+            "Arrange the apple slices in circles over the batter.",
+            "Take the streusel from the fridge and crumble it over the cake with your fingers.",
+            "Bake for 35 to 45 minutes, until a skewer pushed into the middle comes out clean.",
+            "Keep at room temperature until serving. Dust with icing sugar if you like."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the recipe",
+          "text": "Use tart apples — Cox, Braeburn, or Granny Smith."
+        },
+        {
+          "label": "Keep it cold",
+          "text": "Chill the streusel until the last moment, then crumble it on by hand."
+        },
+        {
+          "label": "To serve",
+          "text": "Warm or cold, with a dollop of freshly whipped cream."
+        }
+      ],
+      "notes_heading": "Notes from the recipe",
+      "attribution": "mydinner.co.uk",
+      "source_url": "https://mydinner.co.uk/apple-streusel-cake/"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+mirror/
+site/
+shots/
+__pycache__/
+.netlify/
