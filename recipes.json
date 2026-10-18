@@ -35,6 +35,11 @@
       "name": "Snacks",
       "id": "snacks",
       "subtitle": "Something for the lunch box"
+    },
+    {
+      "name": "Sauces",
+      "id": "sauces",
+      "subtitle": "A spoonful on the side"
     }
   ],
   "footer": "Photographs made for this edition, in the same light throughout. The wording follows the cards. Where a margin note changed the dish, that is the version written here.",
@@ -1338,6 +1343,65 @@
       "notes_heading": "Notes from the recipe",
       "attribution": "Taste of Home",
       "source_url": "https://www.tasteofhome.com/recipes/2-for-1-chicken-tetrazzini/"
+    },
+    {
+      "slug": "honey-mustard-sauce",
+      "category": "Sauces",
+      "title": "Honey Mustard Sauce",
+      "intro": "Sweet, tangy, and creamy, stirred together in five minutes from things already in the fridge. Mayonnaise and sour cream for body, two mustards for bite. Made for chicken fingers, fries, and roasted broccoli.",
+      "details": [
+        "Inspired Taste",
+        "Makes ⅔ cup",
+        "No-cook",
+        "5 minutes"
+      ],
+      "image": "honey-mustard-sauce.jpg",
+      "image_alt": "Honey Mustard Sauce",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "2 tablespoons mayonnaise — homemade if you have it",
+            "2 tablespoons sour cream",
+            "2 tablespoons honey",
+            "2 tablespoons Dijon mustard",
+            "2 tablespoons yellow mustard",
+            "1 tablespoon fresh lemon juice or distilled white vinegar"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Put the mayonnaise, sour cream, honey, both mustards, and the lemon juice or vinegar in a medium bowl.",
+            "Stir until smooth and evenly blended.",
+            "Taste. Add a little more honey for a sweeter sauce, or more mustard for more bite.",
+            "Spoon into a jar or airtight container and keep in the refrigerator for up to two weeks."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the recipe",
+          "text": "Use both mustards: yellow brings the vinegary tang, Dijon the punch."
+        },
+        {
+          "label": "Taste as you go",
+          "text": "Honeys vary in sweetness, so adjust the honey to suit."
+        },
+        {
+          "label": "To serve",
+          "text": "Dip chicken nuggets, fish sticks, or fries, or spoon over pork chops, grilled chicken, and roasted broccoli."
+        },
+        {
+          "label": "Keeps",
+          "text": "Up to two weeks, covered, in the fridge."
+        }
+      ],
+      "notes_heading": "Notes from the recipe",
+      "attribution": "Inspired Taste",
+      "source_url": "https://www.inspiredtaste.net/53807/honey-mustard-sauce/"
     }
   ]
 }
