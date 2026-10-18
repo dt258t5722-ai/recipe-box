@@ -1247,6 +1247,97 @@
       "notes_heading": "Chef's notes",
       "attribution": "Fallow (YouTube)",
       "source_url": "https://youtu.be/5y684a_GcSQ"
+    },
+    {
+      "slug": "chicken-tetrazzini",
+      "category": "Supper",
+      "title": "Chicken Tetrazzini",
+      "intro": "Spaghetti and chicken in a creamy three-part sauce, with mushrooms, pimientos, and Parmesan. One batch fills two dishes: one for tonight, one for the freezer or a friend.",
+      "details": [
+        "Taste of Home",
+        "2 casseroles, 4 servings each",
+        "Two 11 × 7-inch dishes",
+        "350°F",
+        "20–25 minutes"
+      ],
+      "image": "chicken-tetrazzini.jpg",
+      "image_alt": "Chicken Tetrazzini",
+      "ingredients": [
+        {
+          "label": "Pasta",
+          "items": [
+            "1 package (12 ounces) spaghetti"
+          ]
+        },
+        {
+          "label": "Sauce",
+          "items": [
+            "⅓ cup butter, cubed",
+            "⅓ cup all-purpose flour",
+            "¾ tsp salt",
+            "¼ tsp white pepper",
+            "1 can (14½ ounces) chicken broth",
+            "1½ cups half-and-half cream",
+            "1 cup heavy whipping cream"
+          ]
+        },
+        {
+          "label": "Filling",
+          "items": [
+            "4 cups cubed cooked chicken",
+            "3 cans (4 ounces each) mushroom stems and pieces, drained",
+            "1 jar (4 ounces) sliced pimientos, drained"
+          ]
+        },
+        {
+          "label": "Topping",
+          "items": [
+            "½ cup grated Parmesan cheese"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Sauce and pasta",
+          "items": [
+            "Cook the spaghetti until al dente, according to the package directions. Drain and set aside.",
+            "In a Dutch oven, melt the butter. Stir in the flour, salt, and pepper until smooth. Gradually whisk in the broth, half-and-half, and whipping cream.",
+            "Bring to a boil, then cook and stir until thickened, about 2 minutes.",
+            "Remove from the heat. Stir in the chicken, mushrooms, pimientos, and spaghetti, tossing gently to coat."
+          ]
+        },
+        {
+          "label": "Bake one",
+          "items": [
+            "Preheat the oven to 350°F. Divide the mixture between two greased 11 × 7-inch baking dishes and sprinkle with Parmesan.",
+            "Bake one casserole, uncovered, until heated through, 20 to 25 minutes."
+          ]
+        },
+        {
+          "label": "Freeze one",
+          "items": [
+            "Cover and freeze the second casserole for up to 2 months.",
+            "To serve, thaw in the refrigerator overnight. Cover and bake at 350° for 30 minutes, then uncover and bake until heated through, 15 to 20 minutes more. Stir before serving."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the recipe",
+          "text": "Cook the spaghetti only to al dente. It soaks up sauce in the oven without going mushy."
+        },
+        {
+          "label": "For the freezer",
+          "text": "Up to 2 months. Thaw overnight in the fridge, then bake covered first."
+        },
+        {
+          "label": "Before serving",
+          "text": "Give the reheated casserole a stir."
+        }
+      ],
+      "notes_heading": "Notes from the recipe",
+      "attribution": "Taste of Home",
+      "source_url": "https://www.tasteofhome.com/recipes/2-for-1-chicken-tetrazzini/"
     }
   ]
 }
