@@ -1131,6 +1131,122 @@
       ],
       "notes_heading": "From the newsletter",
       "attribution": "Camp Squeah newsletter"
+    },
+    {
+      "slug": "michelin-cottage-pie",
+      "category": "Supper",
+      "title": "Michelin Cottage Pie",
+      "intro": "Short rib and shin instead of mince, braised low and slow for a rich, collagen-thick sauce, under a piped dome of duchesse potato. Inspired by John Williams's version at The Ritz.",
+      "details": [
+        "Fallow (YouTube)",
+        "One pie or casserole dish",
+        "150°C / 300°F braise, about 3 hours",
+        "180°C / 350°F to finish, 30 minutes"
+      ],
+      "image": "michelin-cottage-pie.jpg",
+      "image_alt": "Michelin Cottage Pie",
+      "ingredients": [
+        {
+          "label": "Beef braise",
+          "items": [
+            "450 g short rib, off the bone",
+            "450 g beef shin, off the bone",
+            "1 tbsp olive oil",
+            "Fine salt",
+            "600 ml red wine",
+            "500 ml beef stock",
+            "Bouquet garni: the dark green end of a leek wrapped around thyme, rosemary, and bay"
+          ]
+        },
+        {
+          "label": "Vegetables",
+          "items": [
+            "30 g salted butter",
+            "200 g shallots",
+            "200 g button mushrooms",
+            "3 carrots, diced",
+            "20 g tomato purée"
+          ]
+        },
+        {
+          "label": "Duchesse potatoes",
+          "items": [
+            "1.3 kg Estima potatoes",
+            "50 g butter",
+            "3 egg yolks",
+            "Salt, black pepper, and nutmeg"
+          ]
+        },
+        {
+          "label": "To finish",
+          "items": [
+            "Clarified or melted butter, for brushing"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Braise the beef",
+          "items": [
+            "Heat the oven to 150°C / 300°F. Season the short rib and shin with fine salt. Heat the olive oil over medium-high heat and brown the meat all over until dark golden brown. Lift out the meat.",
+            "Pour the red wine into the pan and reduce by two-thirds, or until it starts to taste sweet.",
+            "Return the meat with the reduced wine, beef stock, and bouquet garni. Cover with a cartouche and a lid, and braise in the oven for 2½ hours."
+          ]
+        },
+        {
+          "label": "Bake the potatoes",
+          "items": [
+            "Heat the oven to 180°C / 350°F. Prick the potatoes and bake them whole on a bed of salt for 40 minutes, or until completely soft — larger potatoes can take about an hour."
+          ]
+        },
+        {
+          "label": "Sauté the vegetables",
+          "items": [
+            "Melt 10 g of the butter until foaming. Over medium-high heat, sauté the mushrooms for 4–5 minutes until softened and golden. Set aside.",
+            "Add another 10 g butter, turn the heat to medium, and sauté the shallots for 4–5 minutes until soft and starting to turn golden.",
+            "Add the last 10 g butter and the carrots. Sauté over medium heat for 4–5 minutes until starting to soften and colour. Stir in the tomato purée and cook it out for a couple of minutes. Combine all the vegetables and set aside."
+          ]
+        },
+        {
+          "label": "Finish the filling",
+          "items": [
+            "After 2½ hours, pick out the bouquet garni. Pull the meat apart into chunks, add the carrots, shallots, and mushrooms, cover again with the cartouche and lid, and return to the oven for 30 minutes.",
+            "Season, then leave to cool — over ice, if you like."
+          ]
+        },
+        {
+          "label": "Duchesse potatoes",
+          "items": [
+            "While the potatoes are still warm, scoop out the insides and push them through a fine drum sieve (a ricer, then a sieve, works too).",
+            "Gently fold in the melted butter and egg yolks until smooth. Season with salt, pepper, and nutmeg to taste."
+          ]
+        },
+        {
+          "label": "Assemble and bake",
+          "items": [
+            "Fill a small pie or casserole dish with the cooled filling, leaving about an inch at the top for the potato.",
+            "Pipe the duchesse potato over the top, starting at the edge and working inward to a generous dome. Smooth it and mark ridges with a palette knife or fork. Leave to cool.",
+            "Brush the top with clarified butter and bake at 180°C / 350°F for 30 minutes, until golden."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the video",
+          "text": "Reduce the wine on its own first, until the tannins are gone and it tastes sweet. Added straight in, it tastes winey."
+        },
+        {
+          "label": "Bake, don't boil",
+          "text": "Boiled potatoes make watery mash. Baking them whole on salt dries them out, so the duchesse holds its shape and browns."
+        },
+        {
+          "label": "Keep it firm",
+          "text": "Fold gently and keep the potato stiff. Too soft or too much fat and it foams in the oven and turns spongy. Pipe onto a cooled filling."
+        }
+      ],
+      "notes_heading": "Chef's notes",
+      "attribution": "Fallow (YouTube)",
+      "source_url": "https://youtu.be/5y684a_GcSQ"
     }
   ]
 }
