@@ -1406,6 +1406,82 @@
       "notes_heading": "Notes from the recipe",
       "attribution": "Inspired Taste",
       "source_url": "https://www.inspiredtaste.net/53807/honey-mustard-sauce/"
+    },
+    {
+      "slug": "spaetzle",
+      "category": "Supper",
+      "title": "Spaetzle",
+      "intro": "Little German egg dumplings, somewhere between a noodle and a dumpling, with a whisper of nutmeg. Just flour, eggs, milk, and salt, pressed straight into boiling water. Toss with butter, or crisp them in a hot pan the way it's done in Germany.",
+      "details": [
+        "Tastes Better From Scratch",
+        "Serves 6",
+        "Dough rests 10 minutes",
+        "2–3 minutes per batch, in boiling water"
+      ],
+      "image": "spaetzle.jpg",
+      "image_alt": "Spaetzle",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "2 cups all-purpose flour",
+            "1½ teaspoons salt",
+            "¼ teaspoon ground nutmeg",
+            "4 large eggs, at room temperature",
+            "½ cup milk"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the dough",
+          "items": [
+            "In a medium to large bowl, stir together the flour, salt, and nutmeg.",
+            "In a second bowl, beat the eggs in one at a time until well blended, then whisk in the milk.",
+            "Make a well in the center of the flour and pour in the egg mixture. Stir until a soft dough forms: thicker than a batter, spoonable but not pourable.",
+            "Cover the bowl with a tea towel and let the dough rest for about 10 minutes."
+          ]
+        },
+        {
+          "label": "Cook",
+          "items": [
+            "Bring 2 to 3 quarts of lightly salted water to a boil.",
+            "Spoon about half the dough into a spaetzle maker, or onto a grater, colander, or steamer basket held over the pot, and push it through the holes with a spatula, letting it drop into the water.",
+            "Stir gently. Cook 2 to 3 minutes, until the dumplings float to the top.",
+            "Lift them out with a slotted spoon, drain in a colander, and turn into a bowl. Repeat with the rest of the dough.",
+            "Toss with butter and serve warm, or brown them in melted butter in a large hot frying pan, turning once, until crisp on both sides."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "No spaetzle maker?",
+          "text": "Press the dough through the large holes of a box grater, a colander, or a steamer basket with a spatula."
+        },
+        {
+          "label": "The dough",
+          "text": "Aim for just thicker than batter: it should hold on a spoon but not pour."
+        },
+        {
+          "label": "To serve",
+          "text": "Buttered, or pan-fried until crisp, with a sprinkle of chopped parsley."
+        },
+        {
+          "label": "Bacon and onion",
+          "text": "Fry finely diced bacon and onion for a couple of minutes before adding the spaetzle to the pan."
+        },
+        {
+          "label": "Käsespätzle",
+          "text": "Layer the warm spaetzle in a baking dish with shredded Swiss cheese between the layers, top with bacon and sautéed onions, and bake at 375°F for about 12 minutes."
+        },
+        {
+          "label": "Keeps",
+          "text": "Several days, covered, in the fridge. Rewarm briefly in boiling water, or in the microwave with a splash of water and a little butter. Freezes for 3 to 4 months; thaw overnight in the fridge."
+        }
+      ],
+      "notes_heading": "Notes from the recipe",
+      "attribution": "Tastes Better From Scratch",
+      "source_url": "https://tastesbetterfromscratch.com/spaetzle/"
     }
   ]
 }
