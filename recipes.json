@@ -1482,6 +1482,92 @@
       "notes_heading": "Notes from the recipe",
       "attribution": "Tastes Better From Scratch",
       "source_url": "https://tastesbetterfromscratch.com/spaetzle/"
+    },
+    {
+      "slug": "ground-beef-stroganoff",
+      "category": "Supper",
+      "title": "Ground Beef Stroganoff",
+      "intro": "All the comfort of a classic stroganoff, with none of the gamble on a pricey steak. Browned mince, golden onions, and button mushrooms simmered in a mustardy beef gravy, finished off the heat with sour cream. One skillet, no oven, and supper on the table in about half an hour.",
+      "details": [
+        "Essen Recipes (YouTube)",
+        "One large frying pan",
+        "About 20 minutes on the stove",
+        "Serve over buttered pasta, egg noodles, rice, or mash"
+      ],
+      "image": "ground-beef-stroganoff.jpg",
+      "image_alt": "Ground Beef Stroganoff",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "1 lb (450 g) ground beef, preferably 10% fat or leaner",
+            "1 large onion, finely chopped",
+            "2 garlic cloves, thinly sliced",
+            "1 teaspoon salt",
+            "½ teaspoon black pepper",
+            "10 oz (300 g) button mushrooms, sliced",
+            "2 tablespoons butter, divided",
+            "2 tablespoons flour",
+            "1 tablespoon Worcestershire sauce",
+            "2 tablespoons Dijon mustard",
+            "1½ cups (375 ml) beef stock",
+            "⅔ cup (150 ml) sour cream or crème fraîche",
+            "Chopped fresh parsley, to serve (optional)",
+            "Pasta, egg noodles, rice, or mashed potatoes, to serve"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Brown the beef",
+          "items": [
+            "Heat a large frying pan over medium-high heat. Add the ground beef, break it into small lumps with a spatula, and cook for about 4 minutes, stirring now and then, until browned.",
+            "Stir in the onion and garlic and season with the salt and pepper. Turn the heat to medium and cook for another 3–4 minutes, until the onion is soft and starting to caramelize.",
+            "Add the mushrooms and cook for 4–5 minutes, until softened."
+          ]
+        },
+        {
+          "label": "Make the sauce",
+          "items": [
+            "Push the beef out toward the edges of the pan to clear a small space in the middle. Melt 1 tablespoon of the butter there, stir in the flour, and cook for a minute to make a smooth paste.",
+            "Add the Worcestershire sauce and Dijon mustard and stir everything together with the beef.",
+            "Pour in the beef stock, stirring gently so the flour dissolves. Simmer for 2–3 minutes, until the sauce thickens slightly."
+          ]
+        },
+        {
+          "label": "Finish",
+          "items": [
+            "Meanwhile, cook your pasta in well-salted water for a minute less than the packet says, drain, and toss with the remaining 1 tablespoon butter.",
+            "Turn off the heat under the stroganoff and stir in the sour cream until the sauce is creamy. Taste and adjust the seasoning.",
+            "Spoon over the buttered pasta and scatter with parsley."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Off the heat",
+          "text": "Stir the sour cream in once the pan is off the heat so it stays smooth and doesn't split."
+        },
+        {
+          "label": "Lean mince",
+          "text": "Choose mince with no more than 10% fat so the sauce isn't greasy. Pork, turkey, chicken, or lamb all work too."
+        },
+        {
+          "label": "More traditional",
+          "text": "Add a good teaspoon of paprika along with the salt and pepper."
+        },
+        {
+          "label": "Swaps",
+          "text": "Soy sauce or balsamic vinegar can stand in for Worcestershire; chicken or vegetable stock works in place of beef; cornflour or rice flour makes it gluten-free."
+        },
+        {
+          "label": "Keeps",
+          "text": "Up to 3 days in the fridge. Reheat gently over medium-low heat."
+        }
+      ],
+      "notes_heading": "Notes from the recipe",
+      "attribution": "Essen Recipes (YouTube)",
+      "source_url": "https://youtu.be/owsD46mTaog"
     }
   ]
 }
