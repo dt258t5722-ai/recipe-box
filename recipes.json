@@ -1568,6 +1568,76 @@
       "notes_heading": "Notes from the recipe",
       "attribution": "Essen Recipes (YouTube)",
       "source_url": "https://youtu.be/owsD46mTaog"
+    },
+    {
+      "slug": "earl-grey-scones",
+      "category": "Breakfast",
+      "title": "Earl Grey Scones",
+      "intro": "Tender, golden wedges with the gentle bergamot of Earl Grey steeped right into the milk. Lovely warm from the oven with butter and a spoonful of apricot jam.",
+      "details": [
+        "Twinings recipe card",
+        "Serves 8",
+        "400°F (200°C)",
+        "15 minutes"
+      ],
+      "image": "earl-grey-scones.jpg",
+      "image_alt": "Earl Grey scones with apricot jam and a cup of tea",
+      "ingredients": [
+        {
+          "label": "Tea-infused milk",
+          "items": [
+            "1 cup (250 mL) milk",
+            "3 Twinings Earl Grey tea bags"
+          ]
+        },
+        {
+          "label": "Dough",
+          "items": [
+            "3 cups (750 mL) all-purpose flour",
+            "½ cup (125 mL) white sugar",
+            "5 tsp (25 mL) baking powder",
+            "½ tsp (2 mL) salt",
+            "¾ cup (180 mL) butter",
+            "1 egg, beaten"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Steep the tea",
+          "items": [
+            "Preheat the oven to 400°F (200°C) and lightly grease a baking sheet.",
+            "Bring the milk to a simmer in a small pot, then take it off the heat. Add the tea bags and let them steep for 30 minutes before lifting them out."
+          ]
+        },
+        {
+          "label": "Make the dough",
+          "items": [
+            "In a large bowl, combine the flour, sugar, baking powder and salt. Cut in the butter.",
+            "In a small bowl, mix the beaten egg with the tea-infused milk, then stir it into the flour mixture."
+          ]
+        },
+        {
+          "label": "Shape and bake",
+          "items": [
+            "Turn the dough out onto a lightly floured surface and knead briefly.",
+            "Roll it into a ½-inch (1.3 cm) thick round and cut into 8 wedges.",
+            "Place on the prepared sheet and bake for 15 minutes, until golden brown."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Give it time",
+          "text": "Let the tea steep the full 30 minutes; that's where all the flavour comes from."
+        },
+        {
+          "label": "To serve",
+          "text": "Warm, with apricot jam, as pictured on the card."
+        }
+      ],
+      "notes_heading": "From the original card",
+      "attribution": "Twinings recipe card"
     }
   ]
 }
