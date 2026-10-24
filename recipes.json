@@ -2265,6 +2265,78 @@
       ],
       "notes_heading": "From the clipping",
       "attribution": "Magazine clipping"
+    },
+    {
+      "slug": "instant-pot-pineapple-pork",
+      "category": "Supper",
+      "title": "Instant Pot Pineapple Pork",
+      "intro": "Tender pork, juicy pineapple and sweet red pepper in a glossy honey, soy and ginger sauce. Brown everything right in the Instant Pot and dinner is ready after just ten minutes under pressure.",
+      "details": [
+        "Mommy's Home Cooking",
+        "Instant Pot",
+        "10 minutes at pressure, 5 minutes natural release"
+      ],
+      "image": "instant-pot-pineapple-pork.jpg",
+      "image_alt": "Pineapple pork with red pepper in a white bowl",
+      "ingredients": [
+        {
+          "label": "Sauce",
+          "items": [
+            "Juice from the pineapple can",
+            "2 tablespoons water",
+            "1 tablespoon cornstarch",
+            "3 tablespoons honey",
+            "2 tablespoons soy sauce",
+            "2 tablespoons brown sugar",
+            "1 tablespoon freshly grated ginger",
+            "3 garlic cloves, minced"
+          ]
+        },
+        {
+          "label": "Pork",
+          "items": [
+            "2 tablespoons olive oil, divided",
+            "2 pounds (900 g) boneless pork stew meat",
+            "1 onion, chopped",
+            "1 red pepper, chopped",
+            "20 ounces (570 g) pineapple chunks in pineapple juice, drained",
+            "1 teaspoon dried oregano",
+            "Kosher salt and black pepper"
+          ]
+        },
+        {
+          "label": "To serve",
+          "items": [
+            "Parsley, for garnish"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Drain the pineapple, saving the juice. In a small bowl, mix the juice with the garlic, ginger, soy sauce, honey and brown sugar.",
+            "Set the Instant Pot to Sauté on high. When hot, add 1 tablespoon oil and brown the pork in batches until no longer pink. Set aside.",
+            "Add the remaining oil and soften the onion and red pepper for a few minutes.",
+            "Return the pork, add the pineapple chunks and oregano, and season with salt and pepper. Stir to combine.",
+            "Pour in the sauce, secure the lid and cook at pressure for 10 minutes.",
+            "Let the pressure release on its own for 5 minutes, then carefully turn the valve to Venting to release the rest.",
+            "Remove the lid. Stir the cornstarch into the water, add it, and sauté for a minute or two until the sauce thickens. Garnish with parsley and serve."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Filling the gaps",
+          "text": "The original steps don't say when the onion, red pepper, brown sugar, cornstarch and water go in. They've been added where they usually go: the vegetables after browning, the sugar in the sauce, and the cornstarch at the end to thicken."
+        },
+        {
+          "label": "To serve",
+          "text": "Lovely over steamed rice."
+        }
+      ],
+      "notes_heading": "Notes",
+      "attribution": "Mommy's Home Cooking"
     }
   ]
 }
