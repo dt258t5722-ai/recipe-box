@@ -17,6 +17,11 @@
       "subtitle": "What the table is for"
     },
     {
+      "name": "Breads",
+      "id": "breads",
+      "subtitle": "Warm from the oven or pan"
+    },
+    {
       "name": "Soups",
       "id": "soups",
       "subtitle": "A pot on the stove"
@@ -1571,7 +1576,7 @@
     },
     {
       "slug": "earl-grey-scones",
-      "category": "Breakfast",
+      "category": "Breads",
       "title": "Earl Grey Scones",
       "intro": "Tender, golden wedges with the gentle bergamot of Earl Grey steeped right into the milk. Lovely warm from the oven with butter and a spoonful of apricot jam.",
       "details": [
@@ -1704,7 +1709,7 @@
     },
     {
       "slug": "naan-bread",
-      "category": "Supper",
+      "category": "Breads",
       "title": "Naan Bread",
       "intro": "Soft, pillowy flatbreads that puff and blister in a hot pan in about a minute a side. Six pantry ingredients and a short rest, then serve them plain or brushed with garlic and fresh herbs alongside any curry.",
       "details": [
