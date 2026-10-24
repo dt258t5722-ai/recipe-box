@@ -1638,6 +1638,69 @@
       ],
       "notes_heading": "From the original card",
       "attribution": "Twinings recipe card"
+    },
+    {
+      "slug": "german-pancake",
+      "category": "Breakfast",
+      "title": "German Pancake",
+      "intro": "Six simple ingredients whisked in five minutes, poured over sizzling butter, and baked until the edges puff up tall and golden. A cherished family breakfast that brings everyone running to the table.",
+      "details": [
+        "Tastes Better From Scratch",
+        "9 × 13-inch metal baking dish",
+        "425°F (218°C)",
+        "22–27 minutes"
+      ],
+      "image": "german-pancake.jpg",
+      "image_alt": "German pancake with powdered sugar, strawberries and syrup",
+      "ingredients": [
+        {
+          "label": "Batter",
+          "items": [
+            "6 large eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour",
+            "A dash of salt",
+            "1 teaspoon vanilla extract"
+          ]
+        },
+        {
+          "label": "For the pan",
+          "items": [
+            "5 tablespoons butter"
+          ]
+        },
+        {
+          "label": "To serve",
+          "items": [
+            "Powdered sugar",
+            "Syrup"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Whisk together the eggs, milk, flour, salt and vanilla until smooth.",
+            "Put the butter in a 9 × 13-inch metal baking dish and set it in the oven while it preheats to 425°F (218°C), so the butter melts.",
+            "Pour the batter over the hot melted butter.",
+            "Bake for 22 to 27 minutes, until the edges are puffed up and beautifully golden brown.",
+            "Dust generously with powdered sugar, drizzle with syrup, and serve right away."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Watch it rise",
+          "text": "It puffs dramatically in the oven and settles as it cools, so bring it straight to the table."
+        },
+        {
+          "label": "To serve",
+          "text": "Fresh strawberries are lovely alongside, as in the original post."
+        }
+      ],
+      "notes_heading": "Notes from the recipe",
+      "attribution": "Tastes Better From Scratch (Instagram)"
     }
   ]
 }
