@@ -2788,6 +2788,51 @@
       ],
       "notes_heading": "From the video",
       "attribution": "@cocolarkincooks"
+    },
+    {
+      "slug": "white-chocolate-cheesecake-truffles",
+      "category": "Desserts",
+      "title": "White Chocolate Cheesecake Truffles",
+      "intro": "No-bake bites of buttery biscuit cheesecake, dipped in white chocolate and finished with a pretty drizzle. They take just four ingredients and an hour in the freezer.",
+      "details": [
+        "From a video",
+        "No bake",
+        "Freeze 30–60 minutes"
+      ],
+      "image": "white-chocolate-cheesecake-truffles.jpg",
+      "image_alt": "White chocolate truffles with drizzle, one bitten to show the filling",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "80 g crunchy biscuits (shortcake works well)",
+            "Cream cheese",
+            "50 g icing sugar",
+            "150 g white chocolate, melted, plus a little extra for drizzling"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Crush the biscuits in a food processor, or in a bag with a rolling pin, and tip them into a bowl.",
+            "Add the cream cheese and icing sugar and mix with a spoon until it comes together into a thick paste.",
+            "Scoop up 1 tablespoon at a time and roll into smooth balls between your hands. Set them on a plate.",
+            "Freeze for 30 to 60 minutes, until firm.",
+            "Using two forks, dip each ball into the melted white chocolate to coat it, letting the extra drip off. Set on a wire rack.",
+            "Drizzle more melted white chocolate back and forth over the tops."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "About the cream cheese",
+          "text": "The video doesn't say how much cream cheese to use. Add enough to bind the crumbs into a thick paste that holds its shape when rolled."
+        }
+      ],
+      "notes_heading": "From the video",
+      "attribution": "Recipe video"
     }
   ]
 }
