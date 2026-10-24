@@ -1830,6 +1830,74 @@
       ],
       "notes_heading": "Notes",
       "attribution": "Roberta's, via a Pizza Dough Showdown chart"
+    },
+    {
+      "slug": "chicken-pesto-lasagna",
+      "category": "Supper",
+      "title": "Chicken Pesto Lasagna",
+      "intro": "A creamy white lasagna that skips the red sauce. Ground chicken, a garlicky ricotta and pesto filling, and roasted garlic parmesan sauce are layered three times under a golden, herb-flecked blanket of mozzarella.",
+      "details": [
+        "From a recipe video",
+        "Square baking dish",
+        "375°F",
+        "25 minutes"
+      ],
+      "image": "chicken-pesto-lasagna.jpg",
+      "image_alt": "Chicken pesto lasagna with a golden cheese top in a glass dish",
+      "ingredients": [
+        {
+          "label": "Filling",
+          "items": [
+            "Ground chicken, cooked",
+            "Ricotta cheese",
+            "Shredded mozzarella",
+            "Parmesan, finely grated",
+            "1 clove garlic, grated",
+            "Pesto (nut-free works)",
+            "2 eggs"
+          ]
+        },
+        {
+          "label": "To assemble",
+          "items": [
+            "1 jar store-bought roasted garlic and parmesan sauce (or your own white sauce)",
+            "No-boil lasagna noodles",
+            "Plenty of extra shredded mozzarella",
+            "Italian seasoning"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the filling",
+          "items": [
+            "Cook the ground chicken in a pan and set it aside.",
+            "In a bowl, mix the ricotta, a handful of mozzarella, the parmesan, garlic, pesto and eggs until combined."
+          ]
+        },
+        {
+          "label": "Layer and bake",
+          "items": [
+            "Spread a thin layer of sauce over the bottom of a square baking dish and add a layer of no-boil noodles.",
+            "Spread on some of the ricotta mixture, then a generous layer of mozzarella and some of the chicken. Drizzle with a little sauce.",
+            "Repeat the noodles, ricotta, mozzarella, chicken and sauce layers twice more, for three layers in all. Go easy on the sauce so it lasts.",
+            "Finish with a layer of noodles, a thick covering of mozzarella and a sprinkle of Italian seasoning.",
+            "Bake at 375°F for 25 minutes, until bubbly and golden."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "About the amounts",
+          "text": "The video doesn't give measurements, only one clove of garlic, two eggs and two noodles per layer. Use enough to fill your dish."
+        },
+        {
+          "label": "Sauce swap",
+          "text": "Your own favourite white sauce works in place of the jar."
+        }
+      ],
+      "notes_heading": "Notes from the video",
+      "attribution": "Recipe video"
     }
   ]
 }
