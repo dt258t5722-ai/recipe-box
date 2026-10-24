@@ -1701,6 +1701,78 @@
       ],
       "notes_heading": "Notes from the recipe",
       "attribution": "Tastes Better From Scratch (Instagram)"
+    },
+    {
+      "slug": "naan-bread",
+      "category": "Supper",
+      "title": "Naan Bread",
+      "intro": "Soft, pillowy flatbreads that puff and blister in a hot pan in about a minute a side. Six pantry ingredients and a short rest, then serve them plain or brushed with garlic and fresh herbs alongside any curry.",
+      "details": [
+        "From a recipe video",
+        "Rests 30 minutes",
+        "Stovetop griddle or frying pan",
+        "About 1 minute per side"
+      ],
+      "image": "naan-bread.jpg",
+      "image_alt": "Stack of garlic and herb naan bread on a wooden board",
+      "ingredients": [
+        {
+          "label": "Dough",
+          "items": [
+            "1 cup warm water",
+            "1 teaspoon sugar",
+            "1 teaspoon yeast",
+            "2¼ cups all-purpose flour",
+            "1 teaspoon salt",
+            "1 tablespoon olive oil"
+          ]
+        },
+        {
+          "label": "For cooking",
+          "items": [
+            "Extra flour, if the dough is sticky and for rolling",
+            "A little olive oil for the pan"
+          ]
+        },
+        {
+          "label": "Optional topping",
+          "items": [
+            "Garlic and chopped fresh herbs"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the dough",
+          "items": [
+            "Stir the warm water, sugar and yeast together in a bowl (or a stand mixer) and leave for about 5 minutes, until foamy.",
+            "Add the flour and salt and mix for about 30 seconds.",
+            "Add the olive oil and keep kneading for about 5 minutes, until it forms a firm dough ball. If it's sticky, add a little more flour.",
+            "Cover the bowl and leave it somewhere warm to rest for about 30 minutes."
+          ]
+        },
+        {
+          "label": "Shape and cook",
+          "items": [
+            "Divide the dough into small balls.",
+            "On a floured surface, roll each one out into a rough round, or stretch it by hand.",
+            "Heat a griddle or frying pan, add a little olive oil and wipe it around with a paper towel.",
+            "Cook each naan about 1 minute per side, until it puffs up and has brown spots on both sides."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Garlic naan",
+          "text": "The video shows a garlic version topped with garlic and fresh herbs, but doesn't give amounts or say when they go on. Brushing the hot naan with garlic butter and scattering herbs over it works well."
+        },
+        {
+          "label": "No rolling pin?",
+          "text": "Stretching the dough by hand works just as well."
+        }
+      ],
+      "notes_heading": "Notes from the video",
+      "attribution": "Recipe video"
     }
   ]
 }
