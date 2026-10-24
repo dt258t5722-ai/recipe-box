@@ -2337,6 +2337,103 @@
       ],
       "notes_heading": "Notes",
       "attribution": "Mommy's Home Cooking"
+    },
+    {
+      "slug": "butterscotch-oat-thins",
+      "category": "Snacks",
+      "title": "Butterscotch Oat Thins",
+      "intro": "Thin, crisp squares of buttery brown-sugar oats with a sparkle of sugar on top. They need just a handful of pantry staples and a low, slow oven. This one is starred on the family clipping.",
+      "details": [
+        "Magazine clipping, with family changes",
+        "13 × 9½ × 2-inch pan",
+        "300°F",
+        "14–15 minutes"
+      ],
+      "image": "butterscotch-oat-thins.jpg",
+      "image_alt": "Butterscotch oat thins cut into squares",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "2 cups rolled oats",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "1 cup brown sugar, packed",
+            "½ cup butter, melted",
+            "½ teaspoon vanilla",
+            "Sugar, for sprinkling"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Heat the oven to 300°F.",
+            "Combine the rolled oats, baking powder, salt and brown sugar, blending well with a fork. Stir in the melted butter and vanilla.",
+            "Spread in a thin layer in an ungreased 13 × 9½ × 2-inch baking pan. Press down firmly with the back of a spoon, then sprinkle generously with sugar.",
+            "Bake until golden, 14 to 15 minutes. Let stand 5 minutes, then cut into squares or bars. Let them cool before taking them out of the pan."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Family changes",
+          "text": "Handwritten on the clipping: bake 14 to 15 minutes instead of the printed \"about 20 minutes\". The recipe is also starred as a favourite."
+        }
+      ],
+      "notes_heading": "From the clipping",
+      "attribution": "Magazine clipping"
+    },
+    {
+      "slug": "butter-tarts",
+      "category": "Desserts",
+      "title": "Butter Tarts",
+      "intro": "The Canadian classic: flaky pastry cups filled with a gooey brown-sugar and corn-syrup custard over plump raisins. The family note on the cookbook page stretches the filling to 18 tarts.",
+      "details": [
+        "Spiral-bound cookbook, with family changes",
+        "Makes 12 medium tarts, or 18 regular muffin-size tarts",
+        "375°F",
+        "15–18 minutes"
+      ],
+      "image": "butter-tarts.jpg",
+      "image_alt": "Butter tarts with raisins on a vintage plate",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "Pastry for 12 tart shells",
+            "½ cup raisins",
+            "¼ cup butter or margarine",
+            "½ cup lightly packed brown sugar",
+            "1 cup corn syrup",
+            "2 eggs, slightly beaten",
+            "¼ teaspoon salt",
+            "1 teaspoon vanilla"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Preheat the oven to 375°F.",
+            "Roll the pastry out on a floured surface. Cut it with a floured cookie cutter and line 12 medium-sized muffin cups. Don't prick the pastry.",
+            "Pour enough boiling water over the raisins to cover them. Let them stand until plump, then drain and arrange them in the tart shells.",
+            "Mix together the butter and brown sugar. Stir in the corn syrup, eggs, salt and vanilla, and combine just until blended.",
+            "Spoon into the unbaked tart shells, filling each about ⅔ full.",
+            "Bake in the preheated 375°F oven for 15 to 18 minutes. Don't let the filling bubble over."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Family changes",
+          "text": "Handwritten in the cookbook: makes enough for 18 regular muffin-size tarts, using about 2 tablespoons of finely chopped raisins (or currants) per tart."
+        }
+      ],
+      "notes_heading": "From the cookbook",
+      "attribution": "Family cookbook"
     }
   ]
 }
