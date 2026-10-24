@@ -17,7 +17,7 @@
       "subtitle": "What the table is for"
     },
     {
-      "name": "Dinner Sides",
+      "name": "Supper Sides",
       "id": "dinner-sides",
       "subtitle": "Something good beside the main"
     },
@@ -1419,7 +1419,7 @@
     },
     {
       "slug": "spaetzle",
-      "category": "Dinner Sides",
+      "category": "Supper Sides",
       "title": "Spaetzle",
       "intro": "Little German egg dumplings, somewhere between a noodle and a dumpling, with a whisper of nutmeg. Just flour, eggs, milk, and salt, pressed straight into boiling water. Toss with butter, or crisp them in a hot pan the way it's done in Germany.",
       "details": [
@@ -2128,7 +2128,7 @@
     },
     {
       "slug": "basic-egg-noodle-pasta",
-      "category": "Supper",
+      "category": "Supper Sides",
       "title": "Basic Egg Noodle Pasta",
       "intro": "Fresh egg pasta made easy with the stand mixer and pasta roller. Four eggs, flour, a splash of water and salt become silky noodles that cook in just a few minutes.",
       "details": [
@@ -2674,7 +2674,7 @@
     },
     {
       "slug": "yorkshire-pudding",
-      "category": "Dinner Sides",
+      "category": "Supper Sides",
       "title": "Fantastic Never-Fail Pan Yorkshire Pudding",
       "intro": "No muffin tins needed. The whole batter puffs up in one hot pan of sizzling roast drippings, rising tall and golden at the edges. Slice it into squares and serve it straight from the oven with the roast beef.",
       "details": [
@@ -2727,7 +2727,7 @@
     },
     {
       "slug": "potatoes-dauphinoise",
-      "category": "Dinner Sides",
+      "category": "Supper Sides",
       "title": "Potatoes Dauphinoise",
       "intro": "Thin slices of potato baked slowly in cream infused with garlic, thyme and rosemary, then finished in a hotter oven until golden and bubbling. A short rest at the end lets the potatoes soak up the last of the cream.",
       "details": [
