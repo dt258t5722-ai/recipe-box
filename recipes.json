@@ -2434,6 +2434,81 @@
       ],
       "notes_heading": "From the cookbook",
       "attribution": "Family cookbook"
+    },
+    {
+      "slug": "maple-walnut-loaf",
+      "category": "Breads",
+      "title": "Maple Walnut Loaf with Maple Glaze",
+      "intro": "A tender quick loaf sweetened with maple syrup and applesauce, warmed with a touch of nutmeg and full of chopped walnuts. A drizzle of maple glaze on top adds even more maple flavour.",
+      "details": [
+        "Little Frugal Homestead",
+        "Serves 10",
+        "One loaf pan",
+        "350°F",
+        "1 hour"
+      ],
+      "image": "maple-walnut-loaf.jpg",
+      "image_alt": "Glazed maple walnut loaf on a wooden board",
+      "ingredients": [
+        {
+          "label": "Dry ingredients",
+          "items": [
+            "1 cup all-purpose flour",
+            "1 cup whole wheat flour",
+            "3 teaspoons baking powder",
+            "½ teaspoon salt",
+            "¾ teaspoon nutmeg"
+          ]
+        },
+        {
+          "label": "Wet ingredients",
+          "items": [
+            "1 stick (½ cup) unsalted butter, melted and cooled",
+            "2 eggs, at room temperature",
+            "¾ cup maple syrup, at room temperature",
+            "1 teaspoon vanilla"
+          ]
+        },
+        {
+          "label": "Additions",
+          "items": [
+            "1 cup unsweetened applesauce",
+            "1 cup walnuts, chopped"
+          ]
+        },
+        {
+          "label": "Maple glaze",
+          "items": [
+            "½ cup powdered sugar",
+            "2 tablespoons maple syrup, at room temperature",
+            "½ tablespoon milk or water"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "The loaf",
+          "items": [
+            "Preheat the oven to 350°F and prepare a loaf pan with baking spray or a butter wrapper.",
+            "In a small bowl, combine the dry ingredients and set aside.",
+            "In a separate, larger bowl, combine the cooled melted butter with the maple syrup. Mix well.",
+            "Add the eggs one at a time, mixing well after each. Stir in the vanilla, then the applesauce.",
+            "Add the dry ingredients a few scoops at a time, stirring well after each addition. Stir in the walnuts.",
+            "Pour into the prepared pan and bake at 350°F for 1 hour, until a toothpick or cake tester comes out clean.",
+            "Cool in the pan on a wire rack for 20 minutes, then turn out and let it cool completely on the rack."
+          ]
+        },
+        {
+          "label": "Maple glaze",
+          "items": [
+            "In a small bowl, combine the powdered sugar, maple syrup and milk until pourable. Add more milk or sugar as needed to get the consistency you like.",
+            "Drizzle over the cooled loaf."
+          ]
+        }
+      ],
+      "notes": [],
+      "notes_heading": "Notes",
+      "attribution": "Little Frugal Homestead"
     }
   ]
 }
