@@ -1898,6 +1898,291 @@
       ],
       "notes_heading": "Notes from the video",
       "attribution": "Recipe video"
+    },
+    {
+      "slug": "bread-machine-recipes",
+      "category": "Breads",
+      "title": "Bread Machine Recipes",
+      "intro": "Every loaf from the bread maker's booklet in one place: white, quick, French, ultra fast, whole wheat, a cake, and a dough setting for rolls and pizza. Pick a recipe and size, load the pan in order, and let the machine do the rest.",
+      "details": [
+        "Bread maker booklet",
+        "700 g or 900 g loaves",
+        "Times are the machine's cooking time"
+      ],
+      "image": "bread-machine-recipes.jpg",
+      "image_alt": "Bread machine loaves on a wooden board",
+      "ingredients": [
+        {
+          "label": "White Bread, 700 g (2:53)",
+          "items": [
+            "270 ml water",
+            "2 tbsp oil",
+            "1 tsp salt",
+            "2 tbsp sugar",
+            "3 cups bread flour",
+            "1 tsp yeast"
+          ]
+        },
+        {
+          "label": "White Bread, 900 g (3:00)",
+          "items": [
+            "330 ml water",
+            "3 tbsp oil",
+            "1½ tsp salt",
+            "3 tbsp sugar",
+            "4 cups bread flour",
+            "1 tsp yeast"
+          ]
+        },
+        {
+          "label": "Quick, 700 g (2:35)",
+          "items": [
+            "250 ml water",
+            "2 tbsp oil",
+            "1 tsp salt",
+            "1½ tbsp sugar",
+            "3 cups all-purpose flour",
+            "2 tsp yeast"
+          ]
+        },
+        {
+          "label": "French Bread, 700 g (3:40)",
+          "items": [
+            "250 ml water",
+            "2 tbsp oil",
+            "1 tsp salt",
+            "1½ tbsp sugar",
+            "3 cups bread flour",
+            "1 tsp yeast"
+          ]
+        },
+        {
+          "label": "French Bread, 900 g (3:50), grows too large",
+          "items": [
+            "330 ml water",
+            "3 tbsp oil",
+            "1½ tsp salt",
+            "2 tbsp sugar",
+            "4 cups bread flour",
+            "1 tsp yeast"
+          ]
+        },
+        {
+          "label": "Ultra Fast Bread, 900 g (2:05)",
+          "items": [
+            "300 ml water",
+            "3 tbsp oil",
+            "1 tsp salt",
+            "4 tbsp sugar",
+            "3½ cups bread flour",
+            "2 tsp yeast"
+          ]
+        },
+        {
+          "label": "Whole Wheat Bread, 700 g (3:37)",
+          "items": [
+            "260 ml water",
+            "2 tbsp oil",
+            "1 tsp salt",
+            "1 cup whole wheat flour",
+            "2 cups bread flour",
+            "2 tbsp brown sugar",
+            "2 tbsp milk powder",
+            "1 tsp yeast"
+          ]
+        },
+        {
+          "label": "Whole Wheat Bread, 900 g (3:45)",
+          "items": [
+            "330 ml water",
+            "3 tbsp oil",
+            "2 tsp salt",
+            "2 cups whole wheat flour",
+            "2 cups bread flour",
+            "2½ tbsp brown sugar",
+            "3 tbsp milk powder",
+            "1 tsp yeast"
+          ]
+        },
+        {
+          "label": "Cake, 700 g (1:50)",
+          "items": [
+            "2 tbsp oil",
+            "8 tbsp sugar",
+            "6 eggs",
+            "1⅔ cups self-rising flour",
+            "1 tsp vanilla",
+            "1 tsp lemon juice",
+            "1 tsp yeast"
+          ]
+        },
+        {
+          "label": "Dough, 700 g (1:30)",
+          "items": [
+            "360 ml water",
+            "2 tbsp oil",
+            "1½ tsp salt",
+            "4 tbsp sugar",
+            "4 cups bread flour",
+            "1 tsp yeast"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Always add ingredients in this order: liquids first, then dry ingredients, then the yeast (or baking soda/powder) last. Yeast should never touch the liquid or the salt.",
+            "For recipes with eggs, mix the eggs in with the liquid ingredients.",
+            "Choose the program and the bread size to match the recipe. Bread size is the size of the finished loaf.",
+            "Start the machine. The time beside each recipe is how long the program runs.",
+            "On the Dough setting the machine only kneads and rises. Shape the dough by hand into rolls, pizza or specialty breads and bake them in a regular oven."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Measuring",
+          "text": "The cup and spoon that came with the machine aren't standard sizes. Its cup holds about 200 ml of liquid or 140 g of flour, and its spoon holds about 1 tsp (7 g) or 1 tbsp (12 g). These recipes were tested with them."
+        },
+        {
+          "label": "From the family",
+          "text": "The 900 g French bread grows too large, so stick with the 700 g size."
+        }
+      ],
+      "notes_heading": "From the booklet",
+      "attribution": "Bread maker instruction booklet"
+    },
+    {
+      "slug": "honey-oat-bread",
+      "category": "Breads",
+      "title": "Soft & Sweet Honey Oat Bread",
+      "intro": "A soft, tender sandwich loaf sweetened with honey and studded with oats, finished with a honey glaze and a scattering of oats on top. A favourite homemade bread, perfect toasted.",
+      "details": [
+        "Jessica & Nellie",
+        "Serves 12",
+        "9 × 5-inch loaf pan",
+        "350°F (180°C)",
+        "40–50 minutes"
+      ],
+      "image": "honey-oat-bread.jpg",
+      "image_alt": "Honey oat bread loaf with oats on top",
+      "ingredients": [
+        {
+          "label": "Dough",
+          "items": [
+            "3 cups all-purpose flour (can use half whole wheat flour)",
+            "¾ cup oats, instant or old-fashioned",
+            "1 tbsp instant yeast",
+            "1½ teaspoons salt",
+            "1 cup milk",
+            "¼ cup lukewarm water",
+            "2 tablespoons butter",
+            "¼ cup honey"
+          ]
+        },
+        {
+          "label": "Topping",
+          "items": [
+            "1½ to 2 tablespoons honey, warmed",
+            "1½ to 2 tablespoons oats"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the dough",
+          "items": [
+            "In a large bowl or stand mixer, combine the flour, oats, yeast and salt.",
+            "Warm the milk until hot enough to melt the butter, but not boiling. Stir in the butter until melted, then the water and honey.",
+            "Pour the milk mixture into the flour and mix with a dough hook until it comes together. Knead 7 to 10 minutes, until smooth and elastic. If still very sticky after 5 minutes, add flour 1 tablespoon at a time until barely tacky; if too dry, add water 1 teaspoon at a time.",
+            "Place in a lightly oiled bowl, cover, and let rise until doubled, about ½ to 1 hour."
+          ]
+        },
+        {
+          "label": "Shape and bake",
+          "items": [
+            "On a clean surface, flatten the dough into a 9 × 12-inch rectangle. Roll it up tightly, tucking the ends, and place in a 9 × 5-inch loaf pan.",
+            "Brush the top with the warmed honey and sprinkle with oats. Let rise somewhere slightly warm until doubled, about ½ hour.",
+            "Preheat the oven to 350°F (180°C) and bake 40 to 50 minutes, until deep golden brown and cooked through."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Warm spot",
+          "text": "In winter, turn the oven on to 350° for a minute or two, then off, and let the loaf rise inside with the light on. You can leave it in while the oven preheats."
+        },
+        {
+          "label": "Done yet?",
+          "text": "The screenshot cut off at the internal temperature. About 190°F (88°C) in the centre, or a hollow sound when tapped, means it's baked."
+        }
+      ],
+      "notes_heading": "Notes from the recipe",
+      "attribution": "Jessica & Nellie"
+    },
+    {
+      "slug": "basic-egg-noodle-pasta",
+      "category": "Supper",
+      "title": "Basic Egg Noodle Pasta",
+      "intro": "Fresh egg pasta made easy with the stand mixer and pasta roller. Four eggs, flour, a splash of water and salt become silky noodles that cook in just a few minutes.",
+      "details": [
+        "KitchenAid pasta roller booklet",
+        "Makes about 1¼ pounds (579 g) dough",
+        "Rests 20 minutes"
+      ],
+      "image": "basic-egg-noodle-pasta.jpg",
+      "image_alt": "Nests of fresh homemade egg noodles",
+      "ingredients": [
+        {
+          "label": "Dough",
+          "items": [
+            "4 large eggs",
+            "3½ cups (830 mL) sifted all-purpose flour",
+            "1 tbs (15 mL) water",
+            "1 tsp (2 mL) salt"
+          ]
+        },
+        {
+          "label": "For cooking",
+          "items": [
+            "6 qt (5.7 L) water",
+            "2 tsp (10 mL) salt",
+            "1 tbs (15 mL) oil (optional)"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the dough",
+          "items": [
+            "Break the eggs into a glass measuring cup. They should measure ⅞ cup (207 mL); if not, add water 1 tsp (2 mL) at a time until they do.",
+            "Put the flour and salt in the stand mixer bowl and attach the flat beater. On Speed 2, gradually add the eggs and 1 tbs (15 mL) water. Mix for 30 seconds.",
+            "Switch to the dough hook and knead on Speed 2 for 2 minutes.",
+            "Let the dough rest for 20 minutes, then divide into 4 pieces and run through the pasta roller."
+          ]
+        },
+        {
+          "label": "Cook",
+          "items": [
+            "Bring 6 qt (5.7 L) of water to a boil with the salt and oil, if using.",
+            "Gradually add the pasta and boil until al dente, stirring occasionally since it floats. Fresh pasta takes 2 to 5 minutes depending on thickness (dry pasta about 7).",
+            "Drain in a colander."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Food safety",
+          "text": "Don't leave anything made with eggs, dairy or meat unrefrigerated for more than an hour."
+        },
+        {
+          "label": "More ideas",
+          "text": "See kitchenaid.com/quickstart for videos and more pasta roller recipes."
+        }
+      ],
+      "notes_heading": "From the booklet",
+      "attribution": "KitchenAid pasta roller booklet"
     }
   ]
 }
