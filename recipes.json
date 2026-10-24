@@ -17,6 +17,11 @@
       "subtitle": "What the table is for"
     },
     {
+      "name": "Dinner Sides",
+      "id": "dinner-sides",
+      "subtitle": "Something good beside the main"
+    },
+    {
       "name": "Breads",
       "id": "breads",
       "subtitle": "Warm from the oven or pan"
@@ -1414,7 +1419,7 @@
     },
     {
       "slug": "spaetzle",
-      "category": "Supper",
+      "category": "Dinner Sides",
       "title": "Spaetzle",
       "intro": "Little German egg dumplings, somewhere between a noodle and a dumpling, with a whisper of nutmeg. Just flour, eggs, milk, and salt, pressed straight into boiling water. Toss with butter, or crisp them in a hot pan the way it's done in Germany.",
       "details": [
@@ -2666,6 +2671,59 @@
       ],
       "notes_heading": "From the recipe",
       "attribution": "Family recipe"
+    },
+    {
+      "slug": "yorkshire-pudding",
+      "category": "Dinner Sides",
+      "title": "Fantastic Never-Fail Pan Yorkshire Pudding",
+      "intro": "No muffin tins needed. The whole batter puffs up in one hot pan of sizzling roast drippings, rising tall and golden at the edges. Slice it into squares and serve it straight from the oven with the roast beef.",
+      "details": [
+        "Food.com, by Kittencalrecipezazz",
+        "Serves 8",
+        "12 × 9-inch pan",
+        "400°F",
+        "30 minutes"
+      ],
+      "image": "yorkshire-pudding.jpg",
+      "image_alt": "Pan Yorkshire pudding cut into squares beside sliced roast beef",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "1½ cups all-purpose flour",
+            "½ teaspoon salt",
+            "3 large eggs, room temperature",
+            "¾ cup water, room temperature",
+            "½ cup beef drippings, or ½ cup melted butter",
+            "¾ cup milk, room temperature"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the batter",
+          "items": [
+            "Mix the flour and salt together until well blended.",
+            "Make a well in the middle of the flour, add the milk and whisk until smooth.",
+            "Add the eggs and beat until blended.",
+            "Add the water and keep beating until the mixture is light and frothy.",
+            "Set aside for about 1 hour, or cover and refrigerate overnight. Chilled batter must come back to room temperature before using."
+          ]
+        },
+        {
+          "label": "Bake",
+          "items": [
+            "When the roast beef is ready to come out of the oven, set the oven to 400°F.",
+            "Pour the ½ cup roast beef drippings (or melted butter) into a 12 × 9-inch baking pan.",
+            "Put the pan in the oven until the drippings sizzle. They must be sizzling!",
+            "Pour the batter over the hot drippings and bake for 30 minutes, until the sides have risen and are golden brown.",
+            "Slice into 8 equal pieces and serve right away."
+          ]
+        }
+      ],
+      "notes": [],
+      "notes_heading": "Notes",
+      "attribution": "Kittencalrecipezazz on Food.com"
     }
   ]
 }
