@@ -1778,6 +1778,58 @@
       ],
       "notes_heading": "Notes from the video",
       "attribution": "Recipe video"
+    },
+    {
+      "slug": "robertas-pizza-dough",
+      "category": "Breads",
+      "title": "Roberta's Pizza Dough",
+      "intro": "The famous Brooklyn pizzeria's dough: a mix of silky 00 and chewy bread flour, just a pinch of yeast, and a slow rise. It's ready in a few hours, but even better after a day in the fridge.",
+      "details": [
+        "Pizza Dough Showdown chart",
+        "Makes 2 pizza crusts",
+        "Rise 3–4 hours, or 18–24 hours"
+      ],
+      "image": "robertas-pizza-dough.jpg",
+      "image_alt": "Two balls of pizza dough and a stretched round on a floured board",
+      "ingredients": [
+        {
+          "label": "Dough",
+          "items": [
+            "1 cup 00 flour",
+            "1 cup bread flour",
+            "1 cup warm tap water",
+            "1 teaspoon fine sea salt",
+            "½ teaspoon active dry yeast",
+            "1 teaspoon extra-virgin olive oil"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "",
+          "items": [
+            "Stir the yeast into the warm water and let it sit for a few minutes.",
+            "Whisk the two flours and the salt together in a large bowl.",
+            "Add the yeast water and olive oil and mix until a shaggy dough forms.",
+            "Knead on a lightly floured surface until smooth and elastic, about 3 minutes.",
+            "Let rest 15 minutes, then knead briefly again.",
+            "Divide into 2 balls, cover, and let rise 3 to 4 hours at room temperature, or 18 to 24 hours in the fridge.",
+            "Stretch each ball into a round, top as you like, and bake in a very hot oven."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the chart",
+          "text": "The chart gives only the ingredients, the rising time and the yield. The steps above are the usual method for this dough."
+        },
+        {
+          "label": "Slow rise",
+          "text": "The 18–24 hour fridge rise gives the most flavour. Let the dough come to room temperature before you stretch it."
+        }
+      ],
+      "notes_heading": "Notes",
+      "attribution": "Roberta's, via a Pizza Dough Showdown chart"
     }
   ]
 }
