@@ -2724,6 +2724,70 @@
       "notes": [],
       "notes_heading": "Notes",
       "attribution": "Kittencalrecipezazz on Food.com"
+    },
+    {
+      "slug": "potatoes-dauphinoise",
+      "category": "Dinner Sides",
+      "title": "Potatoes Dauphinoise",
+      "intro": "Thin slices of potato baked slowly in cream infused with garlic, thyme and rosemary, then finished in a hotter oven until golden and bubbling. A short rest at the end lets the potatoes soak up the last of the cream.",
+      "details": [
+        "@cocolarkincooks",
+        "Oval baking dish",
+        "350°F, then 380°F",
+        "About 1 hour 10 minutes, plus resting"
+      ],
+      "image": "potatoes-dauphinoise.jpg",
+      "image_alt": "Golden potatoes dauphinoise with thyme in an oval dish",
+      "ingredients": [
+        {
+          "label": "Infused cream",
+          "items": [
+            "2 garlic cloves, smashed",
+            "A few sprigs fresh thyme",
+            "1 sprig fresh rosemary",
+            "Heavy cream",
+            "A chunk of butter",
+            "A generous amount of salt"
+          ]
+        },
+        {
+          "label": "Potatoes",
+          "items": [
+            "Potatoes, peeled",
+            "Butter, for the dish and for dotting the top",
+            "Fresh thyme leaves"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Infuse the cream",
+          "items": [
+            "Put the garlic, thyme sprigs and rosemary in a pot and pour in the heavy cream.",
+            "Bring the cream just to a boil, then add the butter and a generous amount of salt.",
+            "Take off the heat and let it infuse for 20 to 30 minutes, then strain out the herbs and garlic."
+          ]
+        },
+        {
+          "label": "Assemble and bake",
+          "items": [
+            "Thinly slice the peeled potatoes on a mandoline.",
+            "Butter the inside of a baking dish and fill it with the potato slices.",
+            "Pour the infused cream all over the top. Dot with thin slices of butter and sprinkle with thyme leaves.",
+            "Bake uncovered at 350°F for 1 hour.",
+            "Raise the heat to 380°F and bake another 10 to 15 minutes, until golden and bubbly.",
+            "Let sit about 15 minutes before serving so the potatoes soak up the rest of the cream."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "About the amounts",
+          "text": "The video gives no measurements for the cream, butter, salt or potatoes. Use enough potatoes to fill your dish and enough cream to come almost to the top of the slices."
+        }
+      ],
+      "notes_heading": "From the video",
+      "attribution": "@cocolarkincooks"
     }
   ]
 }
