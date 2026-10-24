@@ -2183,6 +2183,88 @@
       ],
       "notes_heading": "From the booklet",
       "attribution": "KitchenAid pasta roller booklet"
+    },
+    {
+      "slug": "maple-walnut-cake",
+      "category": "Cakes",
+      "title": "Maple-Walnut Cake with Brown-Sugar Frosting",
+      "intro": "Two tender layers sweetened with pure maple syrup and studded with toasted walnuts, covered in a silky brown-sugar cream cheese frosting and crowned with walnut halves. A showpiece for autumn birthdays and Sunday dinners.",
+      "details": [
+        "Magazine clipping, with family changes",
+        "Serves 10",
+        "Two 9-inch round pans",
+        "350°F",
+        "30–35 minutes"
+      ],
+      "image": "maple-walnut-cake.jpg",
+      "image_alt": "Maple walnut layer cake with brown sugar frosting and walnut halves",
+      "ingredients": [
+        {
+          "label": "For the cake",
+          "items": [
+            "Nonstick cooking spray",
+            "3 cups all-purpose flour (spooned and leveled), plus more for pans",
+            "4 teaspoons baking powder",
+            "¾ teaspoon fine salt",
+            "¾ cup (1½ sticks) unsalted butter, room temperature",
+            "½ cup packed dark-brown sugar",
+            "2 large eggs",
+            "1½ cups pure maple syrup",
+            "1 cup buttermilk",
+            "1 cup chopped walnut halves, toasted"
+          ]
+        },
+        {
+          "label": "For the frosting",
+          "items": [
+            "8 ounces cream cheese, room temperature",
+            "¾ cup (1½ sticks) unsalted butter, room temperature",
+            "¾ cup packed dark-brown sugar",
+            "2 cups confectioners' sugar"
+          ]
+        },
+        {
+          "label": "To decorate",
+          "items": [
+            "Walnut halves"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the cake",
+          "items": [
+            "Preheat the oven to 350°F. Coat two 9-inch round cake pans (2 inches deep) with cooking spray, line the bottoms with parchment, spray the parchment, then flour the pans, tapping out the excess.",
+            "Whisk together the flour, baking powder and salt.",
+            "In a large bowl, beat the butter and brown sugar on high until light and fluffy, 5 minutes. Beat in the eggs one at a time, scraping down the bowl.",
+            "With the mixer on medium-high, add the maple syrup in a slow, steady stream.",
+            "Add the flour mixture in two additions, alternating with the buttermilk, beating well after each. Fold in the walnuts.",
+            "Divide between the pans and tap them firmly on the counter a few times to knock out air bubbles. Bake 30 to 35 minutes, until a toothpick in the centre comes out clean.",
+            "Cool in the pans 15 minutes, then turn out onto racks, peel off the parchment, flip right side up and cool completely. Trim the domed tops flat with a serrated knife."
+          ]
+        },
+        {
+          "label": "Frost and assemble",
+          "items": [
+            "Beat the cream cheese, butter and brown sugar on high until light and fluffy, 5 minutes. Add the confectioners' sugar ½ cup at a time, beating well after each.",
+            "Set one layer top side up on a cake stand and spread with 1½ cups frosting.",
+            "Top with the second layer, top side down, and spread the rest of the frosting over the top and sides.",
+            "Ring the top with walnut halves."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Family changes",
+          "text": "Handwritten on the clipping: 3 cups flour and 1 cup buttermilk in place of ¾ cup whole milk."
+        },
+        {
+          "label": "Make ahead",
+          "text": "Refrigerate the frosted cake in an airtight container up to 1 day. Let it sit at room temperature 1 hour before serving."
+        }
+      ],
+      "notes_heading": "From the clipping",
+      "attribution": "Magazine clipping"
     }
   ]
 }
