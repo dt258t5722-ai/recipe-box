@@ -2833,6 +2833,94 @@
       ],
       "notes_heading": "From the video",
       "attribution": "Recipe video"
+    },
+    {
+      "slug": "assyrian-baklava",
+      "category": "Desserts",
+      "title": "Assyrian Baklava",
+      "intro": "Hand-rolled sheets of rosy beet-juice dough layered with butter, pistachios, walnuts and cinnamon, baked until crisp and soaked in a honey syrup. It takes a labour of love, and it shows.",
+      "details": [
+        "Cookbook page",
+        "Makes about 20 pieces",
+        "8 × 12-inch dish",
+        "350°F",
+        "Prep 1 h 40 min, bake 1 h"
+      ],
+      "image": "assyrian-baklava.jpg",
+      "image_alt": "Rose-tinted baklava cut into diamonds, with pistachio filling",
+      "ingredients": [
+        {
+          "label": "Dough",
+          "items": [
+            "3¼ cups (540 g) all-purpose flour",
+            "1¼ teaspoons table salt",
+            "1 cup (240 ml) beet juice",
+            "¼ cup (60 ml) extra-virgin olive oil",
+            "1½ tablespoons (25 ml) lemon juice",
+            "1 tablespoon (15 ml) apple cider vinegar"
+          ]
+        },
+        {
+          "label": "Filling",
+          "items": [
+            "¾ cup (90 g) unsalted pistachios, finely chopped",
+            "1 cup (100 g) walnuts, finely chopped",
+            "1 teaspoon cinnamon",
+            "9 tablespoons (125 g) salted butter"
+          ]
+        },
+        {
+          "label": "Syrup",
+          "items": [
+            "½ cup (120 ml) set honey",
+            "¼ cup (60 ml) water",
+            "¼ cup (60 ml) beet juice",
+            "1 teaspoon (5 ml) lemon juice"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Dough and filling",
+          "items": [
+            "In a large bowl, mix the flour, salt, beet juice, olive oil, lemon juice and vinegar until a dough forms. Knead about 5 minutes, until smooth and elastic. Cover with a kitchen towel and rest 30 minutes.",
+            "Meanwhile, mix the pistachios, walnuts and cinnamon in a medium bowl. Set aside.",
+            "Melt the butter in a small saucepan over medium heat. Set aside.",
+            "Divide the rested dough into 12 equal pieces.",
+            "Roll out one piece at a time into a rectangle about 8 × 12 inches (20 × 30 cm). Use just enough flour to stop it sticking, since too much makes the dough stiff and harder to work with. Roll as thin as possible, almost see-through.",
+            "Lay each sheet on a floured surface and dust the top with flour so it doesn't stick."
+          ]
+        },
+        {
+          "label": "Layer and bake",
+          "items": [
+            "Preheat the oven to 350°F (175°C).",
+            "Grease an 8 × 12-inch (20 × 30 cm) baking dish with butter. Lay one sheet of dough in the dish and brush it with melted butter. Repeat with four more sheets, brushing each with butter before adding the next.",
+            "Spread half the nut mixture evenly over the dough. Add two more sheets, brushing each with butter, then spread on the rest of the nuts. Finish with the remaining five sheets, brushing each with butter. Pour any leftover butter over the top.",
+            "With a sharp knife, cut into about 20 diamond- or square-shaped pieces. Bake about 1 hour, until the top is crisp."
+          ]
+        },
+        {
+          "label": "Syrup",
+          "items": [
+            "In a small saucepan, mix the honey, water, beet juice and lemon juice. Bring to a boil over high heat, then lower the heat and simmer 5 minutes. Remove from the heat and let cool.",
+            "Pour the cooled syrup evenly over the baklava as soon as it comes out of the oven.",
+            "Let it cool before serving."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "About the dough",
+          "text": "From the book: rolling the dough takes stamina, persistence and grit. If you're not up for it, use store-bought phyllo dough instead. The colour will be lighter, and because store-bought dough is much thinner, the baklava will bake faster."
+        },
+        {
+          "label": "Faded print",
+          "text": "The right edge of the page is faded, so a few words in the steps were filled in from context. The amounts are all clearly printed."
+        }
+      ],
+      "notes_heading": "From the cookbook",
+      "attribution": "Cookbook page"
     }
   ]
 }
