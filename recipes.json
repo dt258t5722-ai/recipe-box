@@ -2997,6 +2997,96 @@
       ],
       "notes_heading": "Notes",
       "attribution": "Food Language on YouTube"
+    },
+    {
+      "slug": "apple-pear-cake",
+      "category": "Cakes",
+      "title": "Apple & Pear Cake with Lemon Cream",
+      "intro": "Tender layers of apple and a soft pear-studded batter, crowned with a silky lemon custard and toasted almonds that bake right on top. It's moist, generous, and perfect with a cup of coffee.",
+      "details": [
+        "From a YouTube baking video",
+        "180°C (350°F)",
+        "50–55 minutes"
+      ],
+      "image": "apple-pear-cake.jpg",
+      "image_alt": "Apple and pear cake topped with baked lemon cream and almond flakes, dusted with powdered sugar",
+      "ingredients": [
+        {
+          "label": "Lemon cream",
+          "items": [
+            "1 egg",
+            "Zest of 1 lemon",
+            "4 tablespoons sugar",
+            "1 teaspoon cornstarch",
+            "240 ml milk (about 1 cup)",
+            "50 g butter (about 3½ tablespoons)"
+          ]
+        },
+        {
+          "label": "Cake",
+          "items": [
+            "4 eggs",
+            "120 g sugar (about ½ cup + 1 tablespoon)",
+            "90 g Greek yogurt or sour cream (about ⅓ cup)",
+            "1 tablespoon vanilla sugar",
+            "5–6 g salt (about 1 teaspoon)",
+            "80 ml vegetable oil (about ⅓ cup)",
+            "270 g flour (about 2¼ cups), sifted",
+            "2 teaspoons baking powder",
+            "2 pears, cut into pieces"
+          ]
+        },
+        {
+          "label": "Layers and topping",
+          "items": [
+            "Apples, peeled and cut into pieces (amount not given)",
+            "Almond flakes, lightly toasted (amount not given)",
+            "Vegetable oil for the pan",
+            "Powdered sugar for dusting"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the lemon cream",
+          "items": [
+            "Mix the egg, lemon zest, sugar and cornstarch well.",
+            "Stir in the milk. Bring to a boil, stirring constantly, and cook until the cream thickens.",
+            "Stir in the butter. Transfer to a bowl, cover the surface with plastic wrap, and let cool."
+          ]
+        },
+        {
+          "label": "Make the batter",
+          "items": [
+            "Beat the eggs with the sugar, then mix in the yogurt or sour cream, vanilla sugar, salt and oil.",
+            "Sift in the flour with the baking powder and mix until smooth.",
+            "Fold in the pear pieces and mix everything well."
+          ]
+        },
+        {
+          "label": "Layer and bake",
+          "items": [
+            "Preheat the oven to 180°C (350°F) and grease the pan with vegetable oil.",
+            "Spread some of the apple pieces over the bottom of the pan, then spread a thin layer of batter over them. Repeat two more times.",
+            "Sprinkle the top with the toasted almond flakes.",
+            "Put the cooled lemon cream in a piping bag and pipe or spread it over the cake however you like.",
+            "Bake for 50–55 minutes.",
+            "Let cool, then dust with powdered sugar."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "What the video leaves out",
+          "text": "The video doesn't give the number of apples, the amount of almond flakes, or the pan size. About 3 medium apples, a small handful of almonds, and a 9-inch (23 cm) springform pan would be sensible guesses, but they're mine, not the video's."
+        },
+        {
+          "label": "Order of the batter",
+          "text": "The video shows the cake ingredients going in one by one but doesn't say exactly how to combine them. The mixing order here is the usual one."
+        }
+      ],
+      "notes_heading": "Notes",
+      "attribution": "YouTube baking video"
     }
   ]
 }
