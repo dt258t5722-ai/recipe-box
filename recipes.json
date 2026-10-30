@@ -2921,6 +2921,82 @@
       ],
       "notes_heading": "From the cookbook",
       "attribution": "Cookbook page"
+    },
+    {
+      "slug": "easy-french-bread",
+      "category": "Breads",
+      "title": "Easy 4-Ingredient No-Knead French Bread",
+      "intro": "Just water, yeast, flour and salt. There's no kneading, only a couple of quick stretch-and-folds. You get three small loaves with a thin, crackly crust and a light, airy crumb. They're lovely with soup, or just with a little soft butter.",
+      "details": [
+        "Food Language on YouTube",
+        "Makes 3 small loaves",
+        "430°F (220°C)",
+        "About 4 hours, mostly rising time"
+      ],
+      "image": "easy-french-bread.jpg",
+      "image_alt": "Three small crusty French loaves on a wooden board, one sliced to show the airy crumb",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "1 cup (220 ml) water",
+            "½ tsp (2 g) dry yeast, or ¾ tsp (3 g) fresh yeast",
+            "2½ cups (320 g) bread flour",
+            "1 tsp (6 g) salt"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Mix",
+          "items": [
+            "Combine the water, yeast, flour and salt, and mix just until there's no dry flour left. There's no need to knead.",
+            "Cover and let rest for 30 minutes."
+          ]
+        },
+        {
+          "label": "Stretch, fold and rise",
+          "items": [
+            "With a wet hand, stretch each of the 4 sides of the dough up and fold it into the centre.",
+            "Lift the dough and slap it back down a few times. This \"lift and slap\" only takes about 15 seconds, but it's important.",
+            "Cover and let rest for another 30 minutes.",
+            "Repeat the stretch and fold on all 4 sides. The dough will now be much more elastic. Give it another gentle lift and slap, about 12 seconds.",
+            "Cover and let rise until doubled in size, usually about 2 hours."
+          ]
+        },
+        {
+          "label": "Shape",
+          "items": [
+            "Sprinkle flour on the work surface and turn out the dough. Fold it over to make it easier to cut, then divide it into 3 equal pieces. Bubbles are a good sign.",
+            "Brush off any excess flour. Flatten each piece gently, fold it into a tight ball, and rub it against the work surface to seal. (You can also flatten it, roll it up lengthwise, then fold it into a ball.)",
+            "Let the balls rest uncovered for 10 minutes.",
+            "Roll each ball into a longer loaf shape and move it to the baking tray.",
+            "Cover with a towel and let rise for 30 minutes. Preheat the oven to 430°F (220°C) while they rise."
+          ]
+        },
+        {
+          "label": "Bake",
+          "items": [
+            "Lightly dust the loaves with flour (a tea strainer works well) and smooth it with your hand.",
+            "With a sharp blade or knife, make three quick diagonal cuts in each loaf.",
+            "Sprinkle a little water around the bread for steam, then cover with a second tray of the same size, turned upside down.",
+            "Bake at 430°F (220°C) for 20 minutes. Remove the top tray and bake 10 minutes more, or until you're happy with the colour.",
+            "Let cool. The crust crackles as it cools, and a hollow tap on the bottom means it's done."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Baking pan",
+          "text": "The video bakes the loaves in a baguette tray covered with a second, upside-down tray to trap the steam. If you have only one tray, you can cover it with aluminum foil for the first 20 minutes instead."
+        },
+        {
+          "label": "Oven preheating",
+          "text": "The video doesn't say exactly when to turn on the oven. Preheating it during the final 30-minute rise is my suggestion."
+        }
+      ],
+      "notes_heading": "Notes",
+      "attribution": "Food Language on YouTube"
     }
   ]
 }
