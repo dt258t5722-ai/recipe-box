@@ -3087,6 +3087,67 @@
       ],
       "notes_heading": "Notes",
       "attribution": "YouTube baking video"
+    },
+    {
+      "slug": "potato-leek-soup",
+      "category": "Soups",
+      "title": "Creamy Potato & Leek Soup",
+      "intro": "A cozy, simple soup made with a handful of everyday vegetables. Some of the potatoes are blended until velvety and the rest stay in tender chunks. Milk, a little nutmeg and fresh chives finish it off.",
+      "details": [
+        "From a YouTube cooking video",
+        "About 4 servings",
+        "About 45 minutes"
+      ],
+      "image": "potato-leek-soup.jpg",
+      "image_alt": "Bowl of creamy potato leek soup topped with chives",
+      "ingredients": [
+        {
+          "label": "",
+          "items": [
+            "1 leek, sliced",
+            "1 stalk celery, chopped",
+            "1 carrot, chopped",
+            "4 potatoes (Yukon Gold recommended), peeled and cubed",
+            "Salt, pepper and cumin, to taste",
+            "About 3 cups (700 ml) vegetable broth",
+            "½ cup milk",
+            "Nutmeg, a pinch",
+            "Chives, chopped",
+            "A little oil or butter for browning (amount not given)"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Cook the vegetables",
+          "items": [
+            "Heat a little oil or butter in a pot and brown the leek (1), celery (1 stalk) and carrot (1) for about 10 minutes.",
+            "Add the potatoes (4) and season with salt, pepper and cumin.",
+            "Cover with the vegetable broth (about 3 cups / 700 ml) and cook over low heat until the potatoes are soft."
+          ]
+        },
+        {
+          "label": "Blend and finish",
+          "items": [
+            "Scoop out some of the potatoes and vegetables and set them aside.",
+            "Blend the rest until smooth, then return the reserved chunks to the pot.",
+            "Stir in the milk (½ cup) and a pinch of nutmeg, and simmer gently for another 5 minutes.",
+            "Turn off the heat and stir in the chives."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Which potatoes?",
+          "text": "The video doesn't say. Yukon Gold is the best choice here: these medium-starch potatoes blend up creamy and buttery but still hold their shape in the chunks you keep whole. Russets make an even thicker soup but tend to fall apart. Waxy red or new potatoes stay firm but blend up less creamy and can turn gluey."
+        },
+        {
+          "label": "Fat for browning",
+          "text": "The video browns the vegetables but doesn't say in what. A tablespoon or two of oil or butter is my suggestion."
+        }
+      ],
+      "notes_heading": "Notes",
+      "attribution": "YouTube cooking video"
     }
   ]
 }
