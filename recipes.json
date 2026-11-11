@@ -3148,6 +3148,74 @@
       ],
       "notes_heading": "Notes",
       "attribution": "YouTube cooking video"
+    },
+    {
+      "slug": "coffee-cake",
+      "category": "Cakes",
+      "title": "Coffee Cake",
+      "intro": "A tender vanilla cake with a brown-sugar cinnamon crumb and chopped walnuts on top. It's the sort of square you cut while it's still a little warm and eat with a cup of coffee.",
+      "details": [
+        "Cookbook, page 202",
+        "One 9-inch square pan",
+        "350°F",
+        "45–50 minutes"
+      ],
+      "image": "coffee-cake.jpg",
+      "image_alt": "Golden square coffee cake with a cinnamon-walnut crumb topping, one slice cut to show the tender crumb",
+      "ingredients": [
+        {
+          "label": "Cake",
+          "items": [
+            "⅓ cup shortening",
+            "1 cup granulated sugar",
+            "1 egg",
+            "1 teaspoon vanilla",
+            "1½ cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "1 cup milk"
+          ]
+        },
+        {
+          "label": "Topping",
+          "items": [
+            "½ cup lightly packed brown sugar",
+            "2 tablespoons flour",
+            "1 teaspoon cinnamon",
+            "½ cup chopped walnuts",
+            "3 tablespoons melted butter or margarine"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Make the cake",
+          "items": [
+            "Preheat the oven to 350°F. Grease a 9-inch square cake pan.",
+            "Cream the shortening (⅓ cup) and granulated sugar (1 cup).",
+            "Beat in the egg (1) and vanilla (1 teaspoon) until light and fluffy.",
+            "Sift together the flour (1½ cups), baking powder (2 teaspoons) and salt (½ teaspoon).",
+            "Add the dry ingredients alternately with the milk (1 cup), in 3 dry and 2 liquid additions, mixing lightly after each.",
+            "Turn the batter into the prepared pan."
+          ]
+        },
+        {
+          "label": "Top and bake",
+          "items": [
+            "Mix the brown sugar (½ cup, lightly packed), flour (2 tablespoons), cinnamon (1 teaspoon), chopped walnuts (½ cup) and melted butter or margarine (3 tablespoons).",
+            "Sprinkle the topping over the batter.",
+            "Bake at 350°F for 45–50 minutes, until golden brown."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "From the cookbook",
+          "text": "This is from page 202 of a cookbook. The title of the book isn't given on the page."
+        }
+      ],
+      "notes_heading": "Notes",
+      "attribution": "Cookbook, page 202"
     }
   ]
 }
