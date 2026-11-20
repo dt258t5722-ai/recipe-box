@@ -3216,6 +3216,101 @@
       ],
       "notes_heading": "Notes",
       "attribution": "Cookbook, page 202"
+    },
+    {
+      "slug": "greek-lemon-chicken",
+      "category": "Supper",
+      "title": "Greek Lemon Chicken and Potatoes",
+      "intro": "Bone-in chicken thighs and Yukon Gold potatoes roast together in a garlicky lemon, oregano and honey marinade. The chicken comes out fall-apart tender, and the potatoes soak up all the pan juices.",
+      "details": [
+        "Sip and Feast on YouTube",
+        "About 4 to 6 servings",
+        "9 × 13-inch (4-quart) baking dish",
+        "425°F, then 375°F",
+        "About 1 hour in the oven, plus at least 2 hours to marinate"
+      ],
+      "image": "greek-lemon-chicken.jpg",
+      "image_alt": "Golden chicken thighs and lemon potatoes in a baking dish",
+      "ingredients": [
+        {
+          "label": "Marinade",
+          "items": [
+            "8 cloves garlic",
+            "¾ cup (180 ml) olive oil",
+            "½ cup (120 ml) fresh lemon juice",
+            "2 teaspoons Dijon mustard",
+            "1 tablespoon honey",
+            "1 tablespoon Greek dried oregano",
+            "1 teaspoon dried thyme",
+            "2 teaspoons fine sea salt",
+            "1 teaspoon black pepper"
+          ]
+        },
+        {
+          "label": "Chicken and potatoes",
+          "items": [
+            "8 large chicken thighs, bone-in and skin-on, overlapping skin trimmed",
+            "5 medium Yukon Gold potatoes, peeled, cut into large chunks, soaked and dried",
+            "1 sprig fresh oregano, optional, for garnish",
+            "5 slices lemon, optional, for garnish"
+          ]
+        }
+      ],
+      "method": [
+        {
+          "label": "Marinate the chicken",
+          "items": [
+            "Trim the overhanging skin from the chicken thighs (8 large) and pick off any bone fragments.",
+            "In a blender, combine the garlic (8 cloves), olive oil (¾ cup / 180 ml), lemon juice (½ cup / 120 ml), Dijon mustard (2 teaspoons), honey (1 tablespoon), oregano (1 tablespoon), thyme (1 teaspoon), fine sea salt (2 teaspoons) and black pepper (1 teaspoon). Blend until smooth.",
+            "Put the chicken in a bowl or a sealable bag, pour all of the marinade over it and turn to coat. Cover and refrigerate for at least 2 hours."
+          ]
+        },
+        {
+          "label": "Prepare the potatoes",
+          "items": [
+            "Meanwhile, peel the potatoes (5 medium) and cut them into large chunks. Soak them in cold water to rinse off some of the starch, then drain and dry them well.",
+            "Heat the oven to 425°F and set a rack in the middle."
+          ]
+        },
+        {
+          "label": "Assemble and bake",
+          "items": [
+            "Spread the potatoes in a 9 × 13-inch baking dish. Pour about half of the used marinade over them and toss with your hands until they are well coated. Spread them in an even layer.",
+            "Arrange the chicken on top of the potatoes, skin side up, and drizzle with the remaining marinade.",
+            "Bake for 10 minutes, then lower the heat to 375°F and bake for another 45 to 55 minutes, until the chicken reaches at least 185°F in the thickest part.",
+            "If the potatoes are still a little firm, transfer the chicken to a platter and tent it with foil. Raise the oven to 425°F and return the potatoes to the oven until they are tender and browned.",
+            "Let the chicken and potatoes sit, lightly tented, for 10 to 15 minutes so they reabsorb the pan juices. Garnish with the fresh oregano (1 sprig) and lemon slices (5) and serve."
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "label": "Marinating time",
+          "text": "The written recipe says at least 2 hours. In the video, he says even 30 minutes will work, or you can leave it overnight, but not more than 24 hours or the lemon juice will make the chicken too soft."
+        },
+        {
+          "label": "The potatoes",
+          "text": "The recipe calls for 5 medium Yukon Golds; in the video he used 4 very large ones. Aim for a single, fairly even layer in a 9 × 13-inch (about 4-quart) dish. Peeling and soaking are optional."
+        },
+        {
+          "label": "If the potatoes need more time",
+          "text": "The written recipe finishes firm potatoes at 425°F. In the video he raised the oven to 450°F for about 10 to 15 minutes, until most of the juices had been absorbed and the tops had a little colour."
+        },
+        {
+          "label": "Salt, honey and garlic",
+          "text": "Use fine sea salt as written — 2 teaspoons of Diamond Crystal kosher salt would be only about half as salty. The honey is optional. If you prefer a milder marinade, he suggests using 4 cloves of garlic instead of 8."
+        },
+        {
+          "label": "Boneless thighs",
+          "text": "Bone-in, skin-on thighs are what he uses, cooked to at least 185°F so the connective tissue becomes tender. Boneless, skinless thighs make a simpler meal, especially for children; they will likely need a little less time, but still cook to 185°F."
+        },
+        {
+          "label": "The pan and the skin",
+          "text": "If everything does not fit in one dish without crowding, use two. If the skin is not brown enough at the end, broil for the last few minutes, watching closely."
+        }
+      ],
+      "notes_heading": "Notes",
+      "attribution": "Sip and Feast on YouTube"
     }
   ]
 }
